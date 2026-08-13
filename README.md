@@ -1,10 +1,10 @@
 # Awesome SFML with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,062 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,357 | 🐛 99 | 📅 2026-06-30
 
 > A curated list of awesome things related to SFML
 
-Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,062 | 🐛 100 | 📅 2026-06-30, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,603 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,507 | 🐛 26 | 📅 2026-05-03.
+Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,357 | 🐛 99 | 📅 2026-06-30, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,606 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,510 | 🐛 26 | 📅 2026-05-03.
 
 ### Contributing
 
@@ -94,14 +94,14 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 * [www.sfml-dev.org](https://www.sfml-dev.org/) - Official site.
   * The [official tutorials](https://www.sfml-dev.org/tutorials/)
   * The [online API documentation](https://www.sfml-dev.org/documentation/)
-  * The [community wiki](https://github.com/SFML/SFML/wiki/) ⭐ 11,981 | 🐛 153 | 🌐 C++ | 📅 2026-08-07
+  * The [community wiki](https://github.com/SFML/SFML/wiki/) ⭐ 11,981 | 🐛 152 | 🌐 C++ | 📅 2026-08-07
   * The [community forum](https://en.sfml-dev.org/forums/) ([French](https://fr.sfml-dev.org/forums/))
 * [www.sfmlprojects.org](https://sfmlprojects.org/) - Discover and talk about projects built with or around the Simple and Fast Multimedia Library!
 * [www.reddit.com/r/sfml](https://www.reddit.com/r/sfml/) - Reddit topic.
 
 ## Books
 
-* [SFML Game Development](https://github.com/SFML/SFML-Game-Development-Book) ⭐ 1,034 | 🐛 18 | 🌐 C++ | 📅 2015-09-27
+* [SFML Game Development](https://github.com/SFML/SFML-Game-Development-Book) ⭐ 1,035 | 🐛 18 | 🌐 C++ | 📅 2015-09-27
 * [SFML Blueprints](https://github.com/Krozark/SFML-book) ⭐ 82 | 🐛 2 | 🌐 C | 📅 2020-11-23
 * [Mastering SFML Game Development](https://github.com/PacktPublishing/Mastering-SFML-Game-Development) ⭐ 72 | 🐛 1 | 📅 2023-01-30
 * [SFML Essentials](https://www.packtpub.com/product/sfml-essentials/9781784397326)

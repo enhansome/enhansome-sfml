@@ -430,7 +430,7 @@
             "last_commit": "2015-09-27T16:11:35Z",
             "owner": "SFML",
             "repo": "SFML-Game-Development-Book",
-            "stars": 1034
+            "stars": 1035
           }
         },
         {
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:31:33.677Z",
+    "last_updated": "2026-08-13T21:09:50.366Z",
     "original_repository": "JustCaptcha/awesome-sfml",
     "original_repository_sha": "bc0f3092a40f4ff6876522be90490286ee7ab9a9",
     "enhanced_repository": "enhansome/enhansome-sfml",
