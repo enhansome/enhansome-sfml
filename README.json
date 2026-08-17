@@ -19,7 +19,7 @@
             "last_commit": "2026-06-11T03:37:08Z",
             "owner": "SFML",
             "repo": "imgui-sfml",
-            "stars": 1361
+            "stars": 1360
           }
         },
         {
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T20:43:32.877Z",
+    "last_updated": "2026-08-17T20:49:07.506Z",
     "original_repository": "JustCaptcha/awesome-sfml",
     "original_repository_sha": "bc0f3092a40f4ff6876522be90490286ee7ab9a9",
     "enhanced_repository": "enhansome/enhansome-sfml",
