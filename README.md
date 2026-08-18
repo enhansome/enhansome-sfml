@@ -1,10 +1,10 @@
 # Awesome SFML with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,947 | 🐛 101 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,384 | 🐛 102 | 📅 2026-08-18
 
 > A curated list of awesome things related to SFML
 
-Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,947 | 🐛 101 | 📅 2026-06-30, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,608 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,540 | 🐛 26 | 📅 2026-05-03.
+Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,384 | 🐛 102 | 📅 2026-08-18, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,609 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,553 | 🐛 26 | 📅 2026-05-03.
 
 ### Contributing
 
@@ -36,7 +36,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ## Components & Libraries
 
-* [imgui-sfml](https://github.com/eliasdaler/imgui-sfml) ⭐ 1,360 | 🐛 29 | 🌐 C++ | 📅 2026-06-11 - ImGui binding for use with SFML.
+* [imgui-sfml](https://github.com/eliasdaler/imgui-sfml) ⭐ 1,360 | 🐛 29 | 🌐 C++ | 📅 2026-08-18 - ImGui binding for use with SFML.
 * [TGUI](https://github.com/texus/TGUI) ⭐ 1,059 | 🐛 7 | 🌐 C++ | 📅 2026-08-12 - Easy to use cross-platform c++ GUI library for SFML.
 * [SFGUI](https://github.com/TankOs/SFGUI) ⭐ 447 | 🐛 18 | 🌐 C++ | 📅 2025-08-28 - Simple and Fast Graphical User Interface
 * [Thor](https://github.com/Bromeon/Thor) ⚠️ Archived - Extension with various game programming features, like particles, animations, vector operations.
@@ -53,7 +53,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 *List of all the known SFML bindings*
 
-* [Rust](https://github.com/jeremyletang/rust-sfml) ⭐ 673 | 🐛 17 | 🌐 Rust | 📅 2026-06-01
+* [Rust](https://github.com/jeremyletang/rust-sfml) ⭐ 672 | 🐛 17 | 🌐 Rust | 📅 2026-06-01
 * [Crystal](https://github.com/BlaXpirit/crsfml) ⭐ 356 | 🐛 5 | 🌐 Crystal | 📅 2025-11-23
 * [Python](https://github.com/intjelic/python-sfml) ⭐ 187 | 🐛 23 | 🌐 Cython | 📅 2026-03-25
 * [Julia](https://github.com/zyedidia/SFML.jl) ⭐ 93 | 🐛 19 | 🌐 Julia | 📅 2018-10-11
@@ -94,7 +94,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 * [www.sfml-dev.org](https://www.sfml-dev.org/) - Official site.
   * The [official tutorials](https://www.sfml-dev.org/tutorials/)
   * The [online API documentation](https://www.sfml-dev.org/documentation/)
-  * The [community wiki](https://github.com/SFML/SFML/wiki/) ⭐ 11,983 | 🐛 153 | 🌐 C++ | 📅 2026-08-07
+  * The [community wiki](https://github.com/SFML/SFML/wiki/) ⭐ 11,985 | 🐛 153 | 🌐 C++ | 📅 2026-08-18
   * The [community forum](https://en.sfml-dev.org/forums/) ([French](https://fr.sfml-dev.org/forums/))
 * [www.sfmlprojects.org](https://sfmlprojects.org/) - Discover and talk about projects built with or around the Simple and Fast Multimedia Library!
 * [www.reddit.com/r/sfml](https://www.reddit.com/r/sfml/) - Reddit topic.
@@ -129,7 +129,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 * [xygineXT](https://github.com/fallahn/xygine) ⭐ 219 | 🐛 11 | 🌐 C++ | 📅 2024-03-17 - 2D engine / framework built around SFML.
 * [SFML-Game-Framework](https://github.com/Hopson97/SFML-Game-Framework) ⭐ 155 | 🐛 3 | 🌐 C++ | 📅 2023-01-29 - Very, very simple and barebones framework for games and that.
 * [Vigilante-Game-Framework](https://github.com/gamepopper/Vigilante-Game-Framework) ⭐ 73 | 🐛 0 | 🌐 C++ | 📅 2026-06-07 - 2D/3D C++ game framework written for use with SFML.
-* [Nero Game Engine](https://github.com/NeroGames/Nero-Game-Engine) ⭐ 59 | 🐛 1 | 🌐 C++ | 📅 2024-02-02 - Advanced SFML Game Engine, Designed to be Simple and Intuitive
+* [Nero Game Engine](https://github.com/NeroGames/Nero-Game-Engine) ⭐ 60 | 🐛 1 | 🌐 C++ | 📅 2024-02-02 - Advanced SFML Game Engine, Designed to be Simple and Intuitive
 * [SFML3-Game-Template](https://github.com/nantr0nic/sfml3-game-template) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2026-05-15 - A data-oriented C++23 starter template for game development using SFML 3.
 
 ## Games
@@ -201,4 +201,4 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

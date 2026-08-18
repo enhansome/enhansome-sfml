@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-06-11T03:37:08Z",
+            "last_commit": "2026-08-18T05:14:51Z",
             "owner": "SFML",
             "repo": "imgui-sfml",
             "stars": 1360
@@ -193,7 +193,7 @@
             "last_commit": "2026-06-01T05:01:52Z",
             "owner": "jeremyletang",
             "repo": "rust-sfml",
-            "stars": 673
+            "stars": 672
           }
         },
         {
@@ -553,7 +553,7 @@
             "last_commit": "2024-02-02T00:00:39Z",
             "owner": "NeroGames",
             "repo": "Nero-Game-Engine",
-            "stars": 59
+            "stars": 60
           }
         },
         {
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T20:49:07.506Z",
+    "last_updated": "2026-08-18T20:45:02.019Z",
     "original_repository": "JustCaptcha/awesome-sfml",
     "original_repository_sha": "bc0f3092a40f4ff6876522be90490286ee7ab9a9",
     "enhanced_repository": "enhansome/enhansome-sfml",
