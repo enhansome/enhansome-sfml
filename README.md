@@ -1,10 +1,10 @@
 # Awesome SFML with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,669 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,786 | 🐛 102 | 📅 2026-08-18
 
 > A curated list of awesome things related to SFML
 
-Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,669 | 🐛 102 | 📅 2026-08-18, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,609 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,558 | 🐛 26 | 📅 2026-05-03.
+Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,786 | 🐛 102 | 📅 2026-08-18, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,609 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,562 | 🐛 26 | 📅 2026-05-03.
 
 ### Contributing
 
@@ -37,7 +37,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 ## Components & Libraries
 
 * [imgui-sfml](https://github.com/eliasdaler/imgui-sfml) ⭐ 1,361 | 🐛 29 | 🌐 C++ | 📅 2026-08-18 - ImGui binding for use with SFML.
-* [TGUI](https://github.com/texus/TGUI) ⭐ 1,059 | 🐛 7 | 🌐 C++ | 📅 2026-08-12 - Easy to use cross-platform c++ GUI library for SFML.
+* [TGUI](https://github.com/texus/TGUI) ⭐ 1,060 | 🐛 7 | 🌐 C++ | 📅 2026-08-12 - Easy to use cross-platform c++ GUI library for SFML.
 * [SFGUI](https://github.com/TankOs/SFGUI) ⭐ 447 | 🐛 18 | 🌐 C++ | 📅 2025-08-28 - Simple and Fast Graphical User Interface
 * [Thor](https://github.com/Bromeon/Thor) ⚠️ Archived - Extension with various game programming features, like particles, animations, vector operations.
 * [SelbaWard](https://github.com/Hapaxia/SelbaWard) ⭐ 215 | 🐛 3 | 🌐 C++ | 📅 2026-02-14 - A collection of drawables.
@@ -94,7 +94,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 * [www.sfml-dev.org](https://www.sfml-dev.org/) - Official site.
   * The [official tutorials](https://www.sfml-dev.org/tutorials/)
   * The [online API documentation](https://www.sfml-dev.org/documentation/)
-  * The [community wiki](https://github.com/SFML/SFML/wiki/) ⭐ 11,987 | 🐛 153 | 🌐 C++ | 📅 2026-08-18
+  * The [community wiki](https://github.com/SFML/SFML/wiki/) ⭐ 11,988 | 🐛 153 | 🌐 C++ | 📅 2026-08-18
   * The [community forum](https://en.sfml-dev.org/forums/) ([French](https://fr.sfml-dev.org/forums/))
 * [www.sfmlprojects.org](https://sfmlprojects.org/) - Discover and talk about projects built with or around the Simple and Fast Multimedia Library!
 * [www.reddit.com/r/sfml](https://www.reddit.com/r/sfml/) - Reddit topic.
@@ -138,7 +138,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 *Games with Open Source licenses*
 
-* [HopsonCraft](https://github.com/Hopson97/HopsonCraft) ⭐ 645 | 🐛 7 | 🌐 C++ | 📅 2024-02-17 - A minecraft clone written using C++, SFML, OpenGL and GLEW.
+* [HopsonCraft](https://github.com/Hopson97/HopsonCraft) ⭐ 644 | 🐛 7 | 🌐 C++ | 📅 2024-02-17 - A minecraft clone written using C++, SFML, OpenGL and GLEW.
 * [Cendric](https://github.com/tizian/Cendric2) ⭐ 308 | 🐛 7 | 🌐 C | 📅 2026-03-30 - Cendric is part top-down RPG and part puzzle platformer.
 * [Witch Blast](https://github.com/Cirrus-Minor/witchblast) ⭐ 227 | 🐛 12 | 🌐 C++ | 📅 2023-12-13 - Witch Blast is a free roguelite dungeon crawl shooter heavily inspired from Binding Of Isaac.
 * [sfml-snake](https://github.com/ParadoxZero/sfml-snake) ⭐ 112 | 🐛 6 | 🌐 C++ | 📅 2026-01-02 - Snake game in C++.
