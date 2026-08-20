@@ -204,7 +204,7 @@
                 "last_commit": "2026-06-01T05:01:52Z",
                 "owner": "jeremyletang",
                 "repo": "rust-sfml",
-                "stars": 672
+                "stars": 671
               }
             },
             {
@@ -782,7 +782,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T20:50:06.261Z",
+    "last_updated": "2026-08-20T20:52:11.150Z",
     "original_repository": "JustCaptcha/awesome-sfml",
     "original_repository_id": 129819282,
     "original_repository_sha": "bc0f3092a40f4ff6876522be90490286ee7ab9a9",
