@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 56048623,
                 "language": "C++",
-                "last_commit": "2026-08-18T05:14:51Z",
+                "last_commit": "2026-08-21T05:01:41Z",
                 "owner": "SFML",
                 "repo": "imgui-sfml",
-                "stars": 1361
+                "stars": 1362
               }
             },
             {
@@ -264,7 +264,7 @@
                 "last_commit": "2022-10-16T14:19:31Z",
                 "owner": "oprypin",
                 "repo": "nim-csfml",
-                "stars": 86
+                "stars": 84
               }
             },
             {
@@ -782,7 +782,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T20:52:11.150Z",
+    "last_updated": "2026-08-21T20:45:26.394Z",
     "original_repository": "JustCaptcha/awesome-sfml",
     "original_repository_id": 129819282,
     "original_repository_sha": "bc0f3092a40f4ff6876522be90490286ee7ab9a9",

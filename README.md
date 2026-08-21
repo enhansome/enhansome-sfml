@@ -1,10 +1,10 @@
 # Awesome SFML with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,203 | 🐛 105 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,612 | 🐛 105 | 📅 2026-08-21
 
 > A curated list of awesome things related to SFML
 
-Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,203 | 🐛 105 | 📅 2026-08-18, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,612 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,577 | 🐛 26 | 📅 2026-05-03.
+Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,612 | 🐛 105 | 📅 2026-08-21, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,616 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,584 | 🐛 26 | 📅 2026-05-03.
 
 ### Contributing
 
@@ -36,7 +36,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ## Components & Libraries
 
-* [imgui-sfml](https://github.com/eliasdaler/imgui-sfml) ⭐ 1,361 | 🐛 29 | 🌐 C++ | 📅 2026-08-18 - ImGui binding for use with SFML.
+* [imgui-sfml](https://github.com/eliasdaler/imgui-sfml) ⭐ 1,362 | 🐛 29 | 🌐 C++ | 📅 2026-08-21 - ImGui binding for use with SFML.
 * [TGUI](https://github.com/texus/TGUI) ⭐ 1,060 | 🐛 7 | 🌐 C++ | 📅 2026-08-12 - Easy to use cross-platform c++ GUI library for SFML.
 * [SFGUI](https://github.com/TankOs/SFGUI) ⭐ 447 | 🐛 18 | 🌐 C++ | 📅 2025-08-28 - Simple and Fast Graphical User Interface
 * [Thor](https://github.com/Bromeon/Thor) ⚠️ Archived - Extension with various game programming features, like particles, animations, vector operations.
@@ -57,7 +57,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 * [Crystal](https://github.com/BlaXpirit/crsfml) ⭐ 356 | 🐛 5 | 🌐 Crystal | 📅 2025-11-23
 * [Python](https://github.com/intjelic/python-sfml) ⭐ 187 | 🐛 23 | 🌐 Cython | 📅 2026-03-25
 * [Julia](https://github.com/zyedidia/SFML.jl) ⭐ 93 | 🐛 19 | 🌐 Julia | 📅 2018-10-11
-* [Nim](https://github.com/oprypin/nim-csfml) ⭐ 86 | 🐛 0 | 🌐 Nim | 📅 2022-10-16
+* [Nim](https://github.com/oprypin/nim-csfml) ⭐ 84 | 🐛 0 | 🌐 Nim | 📅 2022-10-16
 * [Pascal](https://github.com/CWBudde/PasSFML) ⭐ 56 | 🐛 5 | 🌐 Pascal | 📅 2017-03-12
 * [Ruby](https://github.com/Groogy/rbSFML) ⚠️ Archived
 * [Haskell](https://github.com/SFML-haskell/SFML) ⭐ 46 | 🐛 7 | 🌐 Haskell | 📅 2025-10-19
@@ -94,7 +94,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 * [www.sfml-dev.org](https://www.sfml-dev.org/) - Official site.
   * The [official tutorials](https://www.sfml-dev.org/tutorials/)
   * The [online API documentation](https://www.sfml-dev.org/documentation/)
-  * The [community wiki](https://github.com/SFML/SFML/wiki/) ⭐ 11,986 | 🐛 153 | 🌐 C++ | 📅 2026-08-18
+  * The [community wiki](https://github.com/SFML/SFML/wiki/) ⭐ 11,987 | 🐛 153 | 🌐 C++ | 📅 2026-08-18
   * The [community forum](https://en.sfml-dev.org/forums/) ([French](https://fr.sfml-dev.org/forums/))
 * [www.sfmlprojects.org](https://sfmlprojects.org/) - Discover and talk about projects built with or around the Simple and Fast Multimedia Library!
 * [www.reddit.com/r/sfml](https://www.reddit.com/r/sfml/) - Reddit topic.
@@ -201,4 +201,4 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
