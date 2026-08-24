@@ -447,6 +447,57 @@
           "children": [
             {
               "node_type": "item",
+              "title": "tmxlite",
+              "description": "Lightweight C++14 parser for Tiled tmx files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73632818,
+                "language": "C++",
+                "last_commit": "2026-04-27T08:47:52Z",
+                "owner": "fallahn",
+                "repo": "tmxlite",
+                "stars": 465
+              }
+            }
+          ],
+          "description": "Non-Game specific Library bundles, that provide reuseable functions",
+          "node_type": "group",
+          "title": "Utilities"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "www.sfml-dev.org",
+              "description": "Official site.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "The community wiki",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1524684,
+                    "language": "C++",
+                    "last_commit": "2026-08-18T13:41:34Z",
+                    "owner": "SFML",
+                    "repo": "SFML",
+                    "stars": 11991
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Websites"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "SFML Game Development",
               "description": null,
               "children": [],
@@ -494,6 +545,35 @@
           "description": null,
           "node_type": "group",
           "title": "Books"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Building Games with SFML",
+                  "description": "A step-by-step introduction to SFML to help you build enjoyable, cross-platform games",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 188033642,
+                    "language": "C++",
+                    "last_commit": "2021-01-20T07:39:06Z",
+                    "owner": "PacktPublishing",
+                    "repo": "Building-Games-with-SFML",
+                    "stars": 11
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Videos"
+            }
+          ],
+          "description": "Blogs and tutorials",
+          "node_type": "group",
+          "title": "Tutorials"
         }
       ],
       "title": "Libraries and Resources"
@@ -776,13 +856,64 @@
           "description": null,
           "node_type": "group",
           "title": "Games"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Da Music Player",
+                  "description": "A simple, retro, music player that uses SFML for handling the UI and Sound.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 950715065,
+                    "language": "C++",
+                    "last_commit": "2025-04-21T17:36:31Z",
+                    "owner": "Drimiteros",
+                    "repo": "Da-music-player",
+                    "stars": 6
+                  }
+                }
+              ],
+              "description": "Media with Open Source licenses",
+              "node_type": "group",
+              "title": "Open Source"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Media"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Stylish Visualizer",
+              "description": "A sorting algorithms visualizer which features SFX, step by step control and many personalization options.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 501527318,
+                "language": "C++",
+                "last_commit": "2025-12-03T22:20:51Z",
+                "owner": "CosminPerRam",
+                "repo": "StylishVisualizer",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other"
         }
       ],
       "title": "Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:44:51.791Z",
+    "last_updated": "2026-08-24T14:40:45.954Z",
     "original_repository": "JustCaptcha/awesome-sfml",
     "original_repository_id": 129819282,
     "original_repository_sha": "bc0f3092a40f4ff6876522be90490286ee7ab9a9",
