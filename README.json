@@ -457,7 +457,7 @@
                 "last_commit": "2026-04-27T08:47:52Z",
                 "owner": "fallahn",
                 "repo": "tmxlite",
-                "stars": 465
+                "stars": 466
               }
             }
           ],
@@ -484,7 +484,7 @@
                     "last_commit": "2026-08-18T13:41:34Z",
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 11991
+                    "stars": 11990
                   }
                 }
               ]
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:51:33.890Z",
+    "last_updated": "2026-08-26T23:47:31.946Z",
     "original_repository": "JustCaptcha/awesome-sfml",
     "original_repository_id": 129819282,
     "original_repository_sha": "bc0f3092a40f4ff6876522be90490286ee7ab9a9",
