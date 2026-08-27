@@ -1,10 +1,10 @@
 # Awesome SFML with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,231 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,367 | 🐛 105 | 📅 2026-08-21
 
 > A curated list of awesome things related to SFML
 
-Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,231 | 🐛 105 | 📅 2026-08-21, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,626 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,622 | 🐛 26 | 📅 2026-05-03.
+Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,367 | 🐛 105 | 📅 2026-08-21, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,628 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,625 | 🐛 26 | 📅 2026-05-03.
 
 ### Contributing
 
@@ -43,9 +43,9 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 * [SelbaWard](https://github.com/Hapaxia/SelbaWard) ⭐ 215 | 🐛 3 | 🌐 C++ | 📅 2026-02-14 - A collection of drawables.
 * [Candle](https://github.com/MiguelMJ/Candle) ⭐ 141 | 🐛 7 | 🌐 C++ | 📅 2024-04-27 - 2D lighting for SFML
 * [LTBL2](https://github.com/222464/LTBL2) ⭐ 114 | 🐛 4 | 🌐 C++ | 📅 2020-11-28 - A 2D dynamic lighting system with accurate soft shadows.
-* [Swoosh](https://github.com/TheMaverickProgrammer/Swoosh) ⭐ 74 | 🐛 7 | 🌐 Objective-C | 📅 2024-06-24 - SFML Activity and Segue Mini Library
+* [Swoosh](https://github.com/TheMaverickProgrammer/Swoosh) ⭐ 73 | 🐛 7 | 🌐 Objective-C | 📅 2024-06-24 - SFML Activity and Segue Mini Library
 * [SFNUL](https://github.com/binary1248/SFNUL) ⭐ 51 | 🐛 1 | 🌐 C++ | 📅 2018-06-12 - Simple and Fast Network Utility Library.
-* [RichText](https://github.com/skyrpex/RichText) ⭐ 47 | 🐛 0 | 🌐 C++ | 📅 2020-01-28 - Rich text class for SFML2. Allows the user to draw lines of text with different styles and colors.
+* [RichText](https://github.com/skyrpex/RichText) ⭐ 46 | 🐛 0 | 🌐 C++ | 📅 2020-01-28 - Rich text class for SFML2. Allows the user to draw lines of text with different styles and colors.
 * [SFML-utils](https://github.com/Krozark/SFML-utils) ⭐ 27 | 🐛 5 | 🌐 C++ | 📅 2020-11-23 - Some adds to build games.
 * [SFMLSoundSystem](https://github.com/Hapaxia/SfmlSoundSystem) ⭐ 6 | 🐛 0 | 🌐 C++ | 📅 2025-05-18 - Sound Control System for use with SFML.
 
@@ -92,7 +92,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 ## Websites
 
 * [www.sfml-dev.org](https://www.sfml-dev.org/) - Official site.
-  * The [community wiki](https://github.com/SFML/SFML/wiki/) ⭐ 11,990 | 🐛 153 | 🌐 C++ | 📅 2026-08-18
+  * The [community wiki](https://github.com/SFML/SFML/wiki/) ⭐ 11,993 | 🐛 153 | 🌐 C++ | 📅 2026-08-18
   * The [official tutorials](https://www.sfml-dev.org/tutorials/)
   * The [online API documentation](https://www.sfml-dev.org/documentation/)
   * The [community forum](https://en.sfml-dev.org/forums/) ([French](https://fr.sfml-dev.org/forums/))
@@ -124,11 +124,11 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ## Engines
 
-* [ObEngine](https://github.com/Sygmei/ObEngine) ⭐ 863 | 🐛 124 | 🌐 C++ | 📅 2026-07-09 - 2D Game Engine with Lua Scripting made on top of SFML!
+* [ObEngine](https://github.com/Sygmei/ObEngine) ⭐ 862 | 🐛 124 | 🌐 C++ | 📅 2026-07-09 - 2D Game Engine with Lua Scripting made on top of SFML!
 * [is::Engine](https://github.com/Is-Daouda/is-Engine) ⭐ 234 | 🐛 2 | 🌐 C | 📅 2026-07-07 - Game Engine developed with the SFML library to create games on Android and PC
-* [xygineXT](https://github.com/fallahn/xygine) ⭐ 219 | 🐛 11 | 🌐 C++ | 📅 2024-03-17 - 2D engine / framework built around SFML.
-* [SFML-Game-Framework](https://github.com/Hopson97/SFML-Game-Framework) ⭐ 155 | 🐛 3 | 🌐 C++ | 📅 2023-01-29 - Very, very simple and barebones framework for games and that.
-* [Vigilante-Game-Framework](https://github.com/gamepopper/Vigilante-Game-Framework) ⭐ 73 | 🐛 0 | 🌐 C++ | 📅 2026-06-07 - 2D/3D C++ game framework written for use with SFML.
+* [xygineXT](https://github.com/fallahn/xygine) ⭐ 218 | 🐛 11 | 🌐 C++ | 📅 2024-03-17 - 2D engine / framework built around SFML.
+* [SFML-Game-Framework](https://github.com/Hopson97/SFML-Game-Framework) ⭐ 154 | 🐛 3 | 🌐 C++ | 📅 2023-01-29 - Very, very simple and barebones framework for games and that.
+* [Vigilante-Game-Framework](https://github.com/gamepopper/Vigilante-Game-Framework) ⭐ 72 | 🐛 0 | 🌐 C++ | 📅 2026-06-07 - 2D/3D C++ game framework written for use with SFML.
 * [Nero Game Engine](https://github.com/NeroGames/Nero-Game-Engine) ⭐ 60 | 🐛 1 | 🌐 C++ | 📅 2024-02-02 - Advanced SFML Game Engine, Designed to be Simple and Intuitive
 * [SFML3-Game-Template](https://github.com/nantr0nic/sfml3-game-template) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2026-05-15 - A data-oriented C++23 starter template for game development using SFML 3.
 
@@ -201,4 +201,4 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
