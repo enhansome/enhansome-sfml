@@ -18,7 +18,8 @@
                 "owner": "SFML",
                 "repo": "imgui-sfml",
                 "stars": 1362
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "texus",
                 "repo": "TGUI",
                 "stars": 1060
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "TankOs",
                 "repo": "SFGUI",
                 "stars": 447
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "Bromeon",
                 "repo": "Thor",
                 "stars": 354
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "Hapaxia",
                 "repo": "SelbaWard",
                 "stars": 215
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "MiguelMJ",
                 "repo": "Candle",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "222464",
                 "repo": "LTBL2",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "TheMaverickProgrammer",
                 "repo": "Swoosh",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "binary1248",
                 "repo": "SFNUL",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "skyrpex",
                 "repo": "RichText",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "Krozark",
                 "repo": "SFML-utils",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "Hapaxia",
                 "repo": "SfmlSoundSystem",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             }
           ],
           "description": null,
@@ -205,7 +217,8 @@
                 "owner": "jeremyletang",
                 "repo": "rust-sfml",
                 "stars": 671
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "oprypin",
                 "repo": "crsfml",
                 "stars": 356
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "SFML",
                 "repo": "PySFML",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "zyedidia",
                 "repo": "SFML.jl",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "oprypin",
                 "repo": "nim-csfml",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -280,7 +297,8 @@
                 "owner": "CWBudde",
                 "repo": "PasSFML",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -295,7 +313,8 @@
                 "owner": "Groogy",
                 "repo": "rbSFML",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -310,7 +329,8 @@
                 "owner": "SFML-haskell",
                 "repo": "SFML",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -321,11 +341,12 @@
                 "archived": false,
                 "id": 298900902,
                 "language": "Ada",
-                "last_commit": "2026-08-10T11:41:36Z",
+                "last_commit": "2026-08-27T19:13:17Z",
                 "owner": "mgrojo",
                 "repo": "ASFML",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -340,7 +361,8 @@
                 "owner": "DJMaster",
                 "repo": "csfml-fpc",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -355,7 +377,8 @@
                 "owner": "gAndy50",
                 "repo": "EuSFML2",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "group",
@@ -375,7 +398,8 @@
                     "owner": "DerelictOrg",
                     "repo": "DerelictSFML2",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:52.876Z"
                 }
               ]
             },
@@ -397,7 +421,8 @@
                     "owner": "Telroshan",
                     "repo": "go-sfml",
                     "stars": 152
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:52.876Z"
                 }
               ]
             },
@@ -419,7 +444,8 @@
                     "owner": "fccm",
                     "repo": "ocaml-sfml",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:52.876Z"
                 },
                 {
                   "node_type": "item",
@@ -434,7 +460,8 @@
                     "owner": "JoeDralliam",
                     "repo": "Ocsfml",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:52.876Z"
                 }
               ]
             }
@@ -458,7 +485,8 @@
                 "owner": "fallahn",
                 "repo": "tmxlite",
                 "stars": 466
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             }
           ],
           "description": "Non-Game specific Library bundles, that provide reuseable functions",
@@ -485,7 +513,8 @@
                     "owner": "SFML",
                     "repo": "SFML",
                     "stars": 11993
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:52.876Z"
                 }
               ]
             }
@@ -509,7 +538,8 @@
                 "owner": "SFML",
                 "repo": "SFML-Game-Development-Book",
                 "stars": 1035
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -524,7 +554,8 @@
                 "owner": "Krozark",
                 "repo": "SFML-book",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -539,7 +570,8 @@
                 "owner": "PacktPublishing",
                 "repo": "Mastering-SFML-Game-Development",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             }
           ],
           "description": null,
@@ -563,7 +595,8 @@
                     "owner": "PacktPublishing",
                     "repo": "Building-Games-with-SFML",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:52.876Z"
                 }
               ],
               "description": null,
@@ -596,7 +629,8 @@
                 "owner": "ObEngine",
                 "repo": "ObEngine",
                 "stars": 862
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -611,7 +645,8 @@
                 "owner": "Is-Daouda",
                 "repo": "is-Engine",
                 "stars": 234
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -626,7 +661,8 @@
                 "owner": "fallahn",
                 "repo": "xygine",
                 "stars": 218
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -641,7 +677,8 @@
                 "owner": "Hopson97",
                 "repo": "SFML-Game-Framework",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -656,7 +693,8 @@
                 "owner": "gamepopper",
                 "repo": "Vigilante-Game-Framework",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -671,7 +709,8 @@
                 "owner": "NeroGames",
                 "repo": "Nero-Game-Engine",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             },
             {
               "node_type": "item",
@@ -686,7 +725,8 @@
                 "owner": "nantr0nic",
                 "repo": "sfml3-game-template",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             }
           ],
           "description": null,
@@ -710,7 +750,8 @@
                     "owner": "Hopson97",
                     "repo": "HopsonCraft",
                     "stars": 644
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:52.876Z"
                 },
                 {
                   "node_type": "item",
@@ -725,7 +766,8 @@
                     "owner": "tizian",
                     "repo": "Cendric2",
                     "stars": 308
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:52.876Z"
                 },
                 {
                   "node_type": "item",
@@ -740,7 +782,8 @@
                     "owner": "Cirrus-Minor",
                     "repo": "witchblast",
                     "stars": 227
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:52.876Z"
                 },
                 {
                   "node_type": "item",
@@ -755,7 +798,8 @@
                     "owner": "ParadoxZero",
                     "repo": "sfml-snake",
                     "stars": 112
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:52.876Z"
                 },
                 {
                   "node_type": "item",
@@ -770,7 +814,8 @@
                     "owner": "fallahn",
                     "repo": "pseuthe",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:52.876Z"
                 },
                 {
                   "node_type": "item",
@@ -785,7 +830,8 @@
                     "owner": "JuDelCo",
                     "repo": "SFML2-Game",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:52.876Z"
                 },
                 {
                   "node_type": "item",
@@ -800,7 +846,8 @@
                     "owner": "deerportal",
                     "repo": "deerportal",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:52.876Z"
                 },
                 {
                   "node_type": "item",
@@ -815,7 +862,8 @@
                     "owner": "Fromont-Sam",
                     "repo": "SpaceGO",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:52.876Z"
                 },
                 {
                   "node_type": "item",
@@ -830,7 +878,8 @@
                     "owner": "yyamdev",
                     "repo": "hedgehogs-can-fly",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:52.876Z"
                 },
                 {
                   "node_type": "item",
@@ -845,7 +894,8 @@
                     "owner": "cgloeckner",
                     "repo": "racods-lair",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:52.876Z"
                 }
               ],
               "description": "Games with Open Source licenses",
@@ -874,7 +924,8 @@
                     "owner": "Drimiteros",
                     "repo": "Da-music-player",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:52.876Z"
                 }
               ],
               "description": "Media with Open Source licenses",
@@ -901,7 +952,8 @@
                 "owner": "CosminPerRam",
                 "repo": "StylishVisualizer",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T04:23:52.876Z"
             }
           ],
           "description": null,
@@ -913,7 +965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:05:39.511Z",
+    "last_updated": "2026-08-28T04:23:52.876Z",
     "original_repository_info": {
       "archived": false,
       "id": 129819282,
