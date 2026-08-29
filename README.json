@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dear ImGui backend for use with SFML",
+                "homepage": null,
                 "id": 56048623,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-21T05:01:41Z",
+                "open_issues": 28,
                 "owner": "SFML",
                 "repo": "imgui-sfml",
-                "stars": 1363
+                "stars": 1363,
+                "topics": [
+                  "binding",
+                  "gui",
+                  "imgui",
+                  "immediate-gui",
+                  "sfml"
+                ]
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -28,12 +39,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform modern C++ GUI",
+                "homepage": "https://tgui.eu",
                 "id": 4234723,
                 "language": "C++",
+                "license": "Zlib",
                 "last_commit": "2026-08-12T21:47:52Z",
+                "open_issues": 7,
                 "owner": "texus",
                 "repo": "TGUI",
-                "stars": 1061
+                "stars": 1061,
+                "topics": [
+                  "c-plus-plus",
+                  "cross-platform",
+                  "gamedev",
+                  "gui",
+                  "sfml",
+                  "tgui",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -44,12 +68,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple and Fast Graphical User Interface",
+                "homepage": null,
                 "id": 13435050,
                 "language": "C++",
+                "license": "Zlib",
                 "last_commit": "2025-08-28T14:14:19Z",
+                "open_issues": 18,
                 "owner": "TankOs",
                 "repo": "SFGUI",
-                "stars": 448
+                "stars": 448,
+                "topics": [
+                  "c-plus-plus",
+                  "gamedev",
+                  "sfml"
+                ]
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -60,12 +93,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "SFML Extension with various game programming features, like particles, animations, vector operations",
+                "homepage": "www.bromeon.ch/libraries/thor",
                 "id": 3754386,
                 "language": "C++",
+                "license": "Zlib",
                 "last_commit": "2022-04-16T09:55:32Z",
+                "open_issues": 0,
                 "owner": "Bromeon",
                 "repo": "Thor",
-                "stars": 354
+                "stars": 354,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -76,12 +114,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of SFML drawables",
+                "homepage": null,
                 "id": 40416627,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-14T20:07:53Z",
+                "open_issues": 3,
                 "owner": "Hapaxia",
                 "repo": "SelbaWard",
-                "stars": 216
+                "stars": 216,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -92,12 +135,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2D lighting for SFML",
+                "homepage": "https://miguelmj.dev/Candle/",
                 "id": 298553536,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-04-27T12:07:21Z",
+                "open_issues": 7,
                 "owner": "MiguelMJ",
                 "repo": "Candle",
-                "stars": 141
+                "stars": 141,
+                "topics": [
+                  "2d-game",
+                  "2d-lighting",
+                  "game-development",
+                  "library",
+                  "sfml"
+                ]
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -108,12 +162,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A 2D dynamic lighting system with accurate soft shadows.",
+                "homepage": null,
                 "id": 28209024,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2020-11-28T19:54:17Z",
+                "open_issues": 4,
                 "owner": "222464",
                 "repo": "LTBL2",
-                "stars": 114
+                "stars": 114,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -124,12 +183,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SFML Activity and Segue Mini Library",
+                "homepage": null,
                 "id": 154337870,
                 "language": "Objective-C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-24T03:47:04Z",
+                "open_issues": 7,
                 "owner": "TheMaverickProgrammer",
                 "repo": "Swoosh",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "activity",
+                  "scene",
+                  "segues",
+                  "sfml",
+                  "swoosh",
+                  "transition-animation"
+                ]
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -140,12 +211,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple and Fast Network Utility Library",
+                "homepage": null,
                 "id": 11585174,
                 "language": "C++",
+                "license": "MPL-2.0",
                 "last_commit": "2018-06-12T11:40:53Z",
+                "open_issues": 1,
                 "owner": "binary1248",
                 "repo": "SFNUL",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -156,12 +232,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rich text class for SFML2. Allows the user to draw lines of text with different styles and colors.",
+                "homepage": null,
                 "id": 5190160,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2020-01-28T14:41:25Z",
+                "open_issues": 0,
                 "owner": "skyrpex",
                 "repo": "RichText",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "cpp",
+                  "richtext",
+                  "sfml",
+                  "text",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -172,12 +259,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some adds to SFML to build games",
+                "homepage": null,
                 "id": 28533661,
                 "language": "C++",
+                "license": "BSD-2-Clause",
                 "last_commit": "2020-11-23T11:14:49Z",
+                "open_issues": 5,
                 "owner": "Krozark",
                 "repo": "SFML-utils",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "cpp-orm",
+                  "editor",
+                  "game",
+                  "map-framwork",
+                  "sfml"
+                ]
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -188,12 +286,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sound Control System for use with SFML",
+                "homepage": null,
                 "id": 96041172,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-05-18T20:22:49Z",
+                "open_issues": 0,
                 "owner": "Hapaxia",
                 "repo": "SfmlSoundSystem",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             }
@@ -211,12 +314,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SFML bindings for Rust",
+                "homepage": null,
                 "id": 10364009,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-01T05:01:52Z",
+                "open_issues": 17,
                 "owner": "jeremyletang",
                 "repo": "rust-sfml",
-                "stars": 671
+                "stars": 672,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -227,12 +335,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Crystal bindings to SFML multimedia/game library",
+                "homepage": "https://oprypin.github.io/crsfml",
                 "id": 34080247,
                 "language": "Crystal",
+                "license": "Zlib",
                 "last_commit": "2025-11-23T11:02:56Z",
+                "open_issues": 5,
                 "owner": "oprypin",
                 "repo": "crsfml",
-                "stars": 356
+                "stars": 356,
+                "topics": [
+                  "bindings",
+                  "crystal",
+                  "game-framework",
+                  "sfml"
+                ]
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -243,12 +361,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official binding of SFML for Python",
+                "homepage": null,
                 "id": 7374094,
                 "language": "Cython",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-25T09:26:01Z",
+                "open_issues": 23,
                 "owner": "SFML",
                 "repo": "PySFML",
-                "stars": 187
+                "stars": 187,
+                "topics": [
+                  "bindings",
+                  "cython",
+                  "pypi",
+                  "python",
+                  "sfml"
+                ]
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -259,12 +388,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A binding of the game and multimedia library SFML for Julia",
+                "homepage": null,
                 "id": 33011936,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2018-10-11T06:34:34Z",
+                "open_issues": 18,
                 "owner": "zyedidia",
                 "repo": "SFML.jl",
-                "stars": 93
+                "stars": 93,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -275,12 +409,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nim bindings to SFML multimedia/game library ",
+                "homepage": null,
                 "id": 28697153,
                 "language": "Nim",
+                "license": "Zlib",
                 "last_commit": "2022-10-16T14:19:31Z",
+                "open_issues": 0,
                 "owner": "oprypin",
                 "repo": "nim-csfml",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "bindings",
+                  "csfml",
+                  "game-framework",
+                  "nim",
+                  "sfml"
+                ]
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -291,12 +436,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pascal binding for SFML",
+                "homepage": null,
                 "id": 34580602,
                 "language": "Pascal",
+                "license": "NOASSERTION",
                 "last_commit": "2017-03-12T15:28:29Z",
+                "open_issues": 5,
                 "owner": "CWBudde",
                 "repo": "PasSFML",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "delphi",
+                  "fpc",
+                  "game-engine",
+                  "library",
+                  "object-pascal",
+                  "sfml",
+                  "wrapper"
+                ]
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -307,12 +465,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Ruby bindings to SFML",
+                "homepage": null,
                 "id": 1528972,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2016-01-02T03:20:30Z",
+                "open_issues": 8,
                 "owner": "Groogy",
                 "repo": "rbSFML",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -323,12 +486,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Low level Haskell bindings for SFML 2.x",
+                "homepage": null,
                 "id": 6011733,
                 "language": "Haskell",
+                "license": "MIT",
                 "last_commit": "2025-10-19T01:59:12Z",
+                "open_issues": 7,
                 "owner": "SFML-haskell",
                 "repo": "SFML",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -339,12 +507,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ada binding to the SFML library",
+                "homepage": null,
                 "id": 298900902,
                 "language": "Ada",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T19:42:56Z",
+                "open_issues": 1,
                 "owner": "mgrojo",
                 "repo": "ASFML",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "ada",
+                  "audio",
+                  "binding",
+                  "cross-platform",
+                  "games",
+                  "graphics",
+                  "multimedia",
+                  "opengl",
+                  "sfml"
+                ]
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -355,12 +538,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SFML/CSFML headers binding for the Free Pascal Compiler aka FPC",
+                "homepage": "http://www.djmaster.com/",
                 "id": 66965572,
                 "language": "Pascal",
+                "license": null,
                 "last_commit": "2020-09-12T18:36:53Z",
+                "open_issues": 0,
                 "owner": "DJMaster",
                 "repo": "csfml-fpc",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "pascal"
+                ]
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -371,12 +561,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wrapper of SFML2 for Euphoria.",
+                "homepage": null,
                 "id": 36847835,
                 "language": "Euphoria",
+                "license": null,
                 "last_commit": "2022-09-25T06:09:56Z",
+                "open_issues": 0,
                 "owner": "gAndy50",
                 "repo": "EuSFML2",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -392,12 +587,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A dynamic binding to SFML2 for the D Programming Language.",
+                    "homepage": null,
                     "id": 13700940,
                     "language": "D",
+                    "license": null,
                     "last_commit": "2022-07-07T17:29:42Z",
+                    "open_issues": 1,
                     "owner": "DerelictOrg",
                     "repo": "DerelictSFML2",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:52.876Z"
                 }
@@ -415,12 +615,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Up-to-date Go bindings for SFML, the Simple and Fast Multimedia Library.",
+                    "homepage": null,
                     "id": 102642397,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2022-08-06T19:45:03Z",
+                    "open_issues": 2,
                     "owner": "Telroshan",
                     "repo": "go-sfml",
-                    "stars": 152
+                    "stars": 152,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:52.876Z"
                 }
@@ -438,12 +643,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OCaml binding for SFML (Simple and Fast Multimedia Library), http://www.sfml-dev.org/",
+                    "homepage": null,
                     "id": 11882056,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-08-07T09:37:21Z",
+                    "open_issues": 2,
                     "owner": "fccm",
                     "repo": "ocaml-sfml",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:52.876Z"
                 },
@@ -454,12 +664,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Ocaml port of the C++ SFML library.",
+                    "homepage": "http://ocsfml.forge.ocamlcore.org/",
                     "id": 2289026,
                     "language": "OCaml",
+                    "license": "Zlib",
                     "last_commit": "2015-11-01T15:21:20Z",
+                    "open_issues": 0,
                     "owner": "JoeDralliam",
                     "repo": "Ocsfml",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:52.876Z"
                 }
@@ -479,12 +694,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "lightweight C++14 parser for Tiled tmx files",
+                "homepage": null,
                 "id": 73632818,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-27T08:47:52Z",
+                "open_issues": 12,
                 "owner": "fallahn",
                 "repo": "tmxlite",
-                "stars": 466
+                "stars": 466,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "linux",
+                  "macos",
+                  "parse",
+                  "sdl2",
+                  "sfml",
+                  "tiled",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             }
@@ -507,12 +737,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple and Fast Multimedia Library",
+                    "homepage": "https://www.sfml-dev.org/",
                     "id": 1524684,
                     "language": "C++",
+                    "license": "Zlib",
                     "last_commit": "2026-08-18T13:41:34Z",
+                    "open_issues": 153,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 11995
+                    "stars": 11995,
+                    "topics": [
+                      "audio",
+                      "c-plus-plus",
+                      "cross-platform",
+                      "games",
+                      "graphics",
+                      "hacktoberfest",
+                      "multimedia",
+                      "opengl",
+                      "sdk",
+                      "sfml"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:23:52.876Z"
                 }
@@ -532,12 +778,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full and up-to-date source code of the chapters of the \"SFML Game Development\" book",
+                "homepage": null,
                 "id": 11456636,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2015-09-27T16:11:35Z",
+                "open_issues": 18,
                 "owner": "SFML",
                 "repo": "SFML-Game-Development-Book",
-                "stars": 1035
+                "stars": 1035,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -548,12 +799,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SFML Blueprint book, source code",
+                "homepage": null,
                 "id": 23964717,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2020-11-23T11:15:56Z",
+                "open_issues": 2,
                 "owner": "Krozark",
                 "repo": "SFML-book",
-                "stars": 82
+                "stars": 82,
+                "topics": [
+                  "cpp",
+                  "game",
+                  "sfml"
+                ]
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -564,12 +824,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code repository for Mastering SFML Game Development, published by Packt",
+                "homepage": null,
                 "id": 79994199,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-01-30T08:09:20Z",
+                "open_issues": 1,
                 "owner": "PacktPublishing",
                 "repo": "Mastering-SFML-Game-Development",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             }
@@ -589,12 +854,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Building Games with SFML [Video] by Packt Publishing",
+                    "homepage": null,
                     "id": 188033642,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2021-01-20T07:39:06Z",
+                    "open_issues": 0,
                     "owner": "PacktPublishing",
                     "repo": "Building-Games-with-SFML",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:52.876Z"
                 }
@@ -623,12 +893,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2D Game Engine with Lua Scripting made on top of SFML !",
+                "homepage": "https://www.obengine.io",
                 "id": 55010544,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-07-09T00:56:01Z",
+                "open_issues": 124,
                 "owner": "ObEngine",
                 "repo": "ObEngine",
-                "stars": 862
+                "stars": 862,
+                "topics": [
+                  "2d",
+                  "2d-framework",
+                  "2d-game-engine",
+                  "2d-game-framework",
+                  "cmake",
+                  "collider",
+                  "cplusplus",
+                  "cpp17",
+                  "cross-platform",
+                  "engine",
+                  "game-development",
+                  "game-engine",
+                  "gamedev",
+                  "hacktoberfest",
+                  "lua-script",
+                  "sfml",
+                  "zlib"
+                ]
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -639,12 +932,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++, SDL 2 and SFML game engine that allows to create games on Nintendo Switch, Web (HTML 5), Mobile and PC.",
+                "homepage": "https://linktr.ee/is_daouda",
                 "id": 163519422,
                 "language": "C",
+                "license": "Zlib",
                 "last_commit": "2026-07-07T00:56:06Z",
+                "open_issues": 2,
                 "owner": "Is-Daouda",
                 "repo": "is-Engine",
-                "stars": 234
+                "stars": 234,
+                "topics": [
+                  "android",
+                  "android-studio",
+                  "box-2d",
+                  "code-blocks",
+                  "cplusplus",
+                  "cpp",
+                  "css3",
+                  "emscripten",
+                  "game-engine",
+                  "html",
+                  "html5",
+                  "ios",
+                  "nintendo-switch",
+                  "qt",
+                  "sdl",
+                  "sfml",
+                  "tmx",
+                  "visual-studio-code",
+                  "web",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -655,12 +974,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2D engine / framework built around SFML",
+                "homepage": null,
                 "id": 44755386,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2024-03-17T11:34:25Z",
+                "open_issues": 11,
                 "owner": "fallahn",
                 "repo": "xygine",
-                "stars": 218
+                "stars": 218,
+                "topics": [
+                  "2d-framework",
+                  "ecs",
+                  "gamedev",
+                  "gamedev-framework",
+                  "sfml"
+                ]
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -671,12 +1001,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beginner framework for SFML games and other applications. ",
+                "homepage": null,
                 "id": 101172750,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-01-29T11:12:10Z",
+                "open_issues": 3,
                 "owner": "Hopson97",
                 "repo": "SFML-Game-Framework",
-                "stars": 154
+                "stars": 154,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -687,12 +1022,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2D/3D C++ game framework written for use with SFML.",
+                "homepage": null,
                 "id": 87234015,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-06-07T21:11:00Z",
+                "open_issues": 0,
                 "owner": "gamepopper",
                 "repo": "Vigilante-Game-Framework",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -703,12 +1043,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Advanced SFML Game Engine, Designed to be Simple and Intuitive",
+                "homepage": "https://nero-games.com",
                 "id": 89913632,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-02-02T00:00:39Z",
+                "open_issues": 1,
                 "owner": "NeroGames",
                 "repo": "Nero-Game-Engine",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "2d-game",
+                  "2d-game-engine",
+                  "box2d",
+                  "engine",
+                  "engine-development",
+                  "game",
+                  "game-development",
+                  "game-engine",
+                  "gamedev",
+                  "games",
+                  "imgui-game-engine",
+                  "nero-game-engine",
+                  "sfml",
+                  "sfml-game-engine"
+                ]
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -719,12 +1079,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SFML 3 Game Template Project",
+                "homepage": null,
                 "id": 1082302302,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-05-15T03:41:05Z",
+                "open_issues": 0,
                 "owner": "nantr0nic",
                 "repo": "sfml3-game-template",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "ecs",
+                  "entt",
+                  "game-development",
+                  "game-engine",
+                  "sfml",
+                  "sfml3"
+                ]
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             }
@@ -744,12 +1116,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A minecraft clone written using C++, SFML, OpenGL and GLEW.",
+                    "homepage": null,
                     "id": 69732243,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2024-02-17T14:45:07Z",
+                    "open_issues": 7,
                     "owner": "Hopson97",
                     "repo": "HopsonCraft",
-                    "stars": 644
+                    "stars": 644,
+                    "topics": [
+                      "game",
+                      "minecraft",
+                      "opengl",
+                      "sfml"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:23:52.876Z"
                 },
@@ -760,12 +1142,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "2D Game",
+                    "homepage": null,
                     "id": 31741698,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-03-30T16:59:15Z",
+                    "open_issues": 7,
                     "owner": "tizian",
                     "repo": "Cendric2",
-                    "stars": 308
+                    "stars": 308,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:52.876Z"
                 },
@@ -776,12 +1163,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Roguelite dungeon crawler game",
+                    "homepage": null,
                     "id": 18816608,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-12-13T17:53:02Z",
+                    "open_issues": 12,
                     "owner": "Cirrus-Minor",
                     "repo": "witchblast",
-                    "stars": 227
+                    "stars": 227,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:52.876Z"
                 },
@@ -792,12 +1184,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "snake game in C++ using sfml library.",
+                    "homepage": null,
                     "id": 76397014,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-01-02T00:45:56Z",
+                    "open_issues": 6,
                     "owner": "ParadoxZero",
                     "repo": "sfml-snake",
-                    "stars": 112
+                    "stars": 112,
+                    "topics": [
+                      "game-2d",
+                      "game-development",
+                      "sfml-game",
+                      "snake-game"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:23:52.876Z"
                 },
@@ -808,12 +1210,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Casual Survival Game",
+                    "homepage": null,
                     "id": 37075439,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2020-12-30T15:47:38Z",
+                    "open_issues": 1,
                     "owner": "fallahn",
                     "repo": "pseuthe",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": [
+                      "game",
+                      "sfml",
+                      "sfml-game"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:23:52.876Z"
                 },
@@ -824,12 +1235,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SFML2 - Random Games",
+                    "homepage": null,
                     "id": 12307498,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2013-11-17T21:25:19Z",
+                    "open_issues": 0,
                     "owner": "JuDelCo",
                     "repo": "SFML2-Game",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:52.876Z"
                 },
@@ -840,12 +1256,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Full of the diamonds  :gem: board game driven by a :deer: Deer :deer: god and classical elements :fire: 💦 :dash: :earth_africa: ",
+                    "homepage": "https://devcarpet.net/deerportal/",
                     "id": 33885550,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-07-30T20:03:10Z",
+                    "open_issues": 1,
                     "owner": "deerportal",
                     "repo": "deerportal",
-                    "stars": 34
+                    "stars": 34,
+                    "topics": [
+                      "board-game",
+                      "c-plus-plus",
+                      "card-game",
+                      "game",
+                      "hacktoberfest",
+                      "hacktoberfest2019",
+                      "multiplayer",
+                      "pagan",
+                      "sfml",
+                      "singleplayer"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:23:52.876Z"
                 },
@@ -856,12 +1288,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Space shooter game using C++ and SFML",
+                    "homepage": "https://www.youtube.com/watch?v=tRKn1EC-p8M",
                     "id": 128812402,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2021-01-22T21:09:53Z",
+                    "open_issues": 0,
                     "owner": "Fromont-Sam",
                     "repo": "SpaceGO",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:52.876Z"
                 },
@@ -872,12 +1309,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "2D physics platformer game",
+                    "homepage": "https://gamejolt.com/games/hogscanfly/281774",
                     "id": 70701858,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2019-05-16T11:42:23Z",
+                    "open_issues": 0,
                     "owner": "yyamdev",
                     "repo": "hedgehogs-can-fly",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:52.876Z"
                 },
@@ -888,12 +1330,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "2D Rogue-inspired Action Dungeoncrawler",
+                    "homepage": "http://www.indiedb.com/games/racodslair/",
                     "id": 63691422,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2018-06-06T16:27:57Z",
+                    "open_issues": 9,
                     "owner": "cgloeckner",
                     "repo": "racods-lair",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:52.876Z"
                 }
@@ -918,12 +1365,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A basic music player made in C++",
+                    "homepage": "https://drimiteros.github.io/Da-Music-Player-Website/",
                     "id": 950715065,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-04-21T17:36:31Z",
+                    "open_issues": 0,
                     "owner": "Drimiteros",
                     "repo": "Da-music-player",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": [
+                      "audio-player",
+                      "cpp",
+                      "cpp20",
+                      "mp3-player",
+                      "music-player",
+                      "open-source",
+                      "sfml"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:23:52.876Z"
                 }
@@ -946,12 +1406,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ImGui + SFML Sorting Visualizer",
+                "homepage": null,
                 "id": 501527318,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2025-12-03T22:20:51Z",
+                "open_issues": 4,
                 "owner": "CosminPerRam",
                 "repo": "StylishVisualizer",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "cpp",
+                  "imgui",
+                  "implot",
+                  "sfml"
+                ]
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             }
@@ -965,15 +1435,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:51:08.925Z",
+    "last_updated": "2026-08-29T04:58:01.292Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome things related to the SFML",
+      "homepage": "https://github.com/SFML/SFML",
       "id": 129819282,
       "language": null,
+      "license": null,
       "last_commit": "2026-04-19T20:23:33Z",
+      "open_issues": 0,
       "owner": "JustCaptcha",
       "repo": "awesome-sfml",
-      "stars": 109
+      "stars": 109,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "sfml",
+        "sfml-game-development",
+        "sfml-resources",
+        "unicorns"
+      ]
     },
     "original_repository_sha": "bc0f3092a40f4ff6876522be90490286ee7ab9a9",
     "enhanced_repository": "enhansome/enhansome-sfml",

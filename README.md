@@ -1,10 +1,10 @@
 # Awesome SFML with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,877 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,897 | 🐛 105 | 📅 2026-08-21
 
 > A curated list of awesome things related to SFML
 
-Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,877 | 🐛 105 | 📅 2026-08-21, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,634 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,641 | 🐛 26 | 📅 2026-05-03.
+Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,897 | 🐛 105 | 📅 2026-08-21, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,634 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,640 | 🐛 26 | 📅 2026-05-03.
 
 ### Contributing
 
@@ -53,7 +53,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 *List of all the known SFML bindings*
 
-* [Rust](https://github.com/jeremyletang/rust-sfml) ⭐ 671 | 🐛 17 | 🌐 Rust | 📅 2026-06-01
+* [Rust](https://github.com/jeremyletang/rust-sfml) ⭐ 672 | 🐛 17 | 🌐 Rust | 📅 2026-06-01
 * [Crystal](https://github.com/BlaXpirit/crsfml) ⭐ 356 | 🐛 5 | 🌐 Crystal | 📅 2025-11-23
 * [Python](https://github.com/intjelic/python-sfml) ⭐ 187 | 🐛 23 | 🌐 Cython | 📅 2026-03-25
 * [Julia](https://github.com/zyedidia/SFML.jl) ⭐ 93 | 🐛 18 | 🌐 Julia | 📅 2018-10-11
