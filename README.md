@@ -1,10 +1,10 @@
 # Awesome SFML with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,596 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,877 | 🐛 105 | 📅 2026-08-21
 
 > A curated list of awesome things related to SFML
 
-Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,596 | 🐛 105 | 📅 2026-08-21, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,632 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,636 | 🐛 26 | 📅 2026-05-03.
+Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,877 | 🐛 105 | 📅 2026-08-21, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,634 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,641 | 🐛 26 | 📅 2026-05-03.
 
 ### Contributing
 
@@ -36,11 +36,11 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ## Components & Libraries
 
-* [imgui-sfml](https://github.com/eliasdaler/imgui-sfml) ⭐ 1,362 | 🐛 28 | 🌐 C++ | 📅 2026-08-21 - ImGui binding for use with SFML.
-* [TGUI](https://github.com/texus/TGUI) ⭐ 1,060 | 🐛 7 | 🌐 C++ | 📅 2026-08-12 - Easy to use cross-platform c++ GUI library for SFML.
-* [SFGUI](https://github.com/TankOs/SFGUI) ⭐ 447 | 🐛 18 | 🌐 C++ | 📅 2025-08-28 - Simple and Fast Graphical User Interface
+* [imgui-sfml](https://github.com/eliasdaler/imgui-sfml) ⭐ 1,363 | 🐛 28 | 🌐 C++ | 📅 2026-08-21 - ImGui binding for use with SFML.
+* [TGUI](https://github.com/texus/TGUI) ⭐ 1,061 | 🐛 7 | 🌐 C++ | 📅 2026-08-12 - Easy to use cross-platform c++ GUI library for SFML.
+* [SFGUI](https://github.com/TankOs/SFGUI) ⭐ 448 | 🐛 18 | 🌐 C++ | 📅 2025-08-28 - Simple and Fast Graphical User Interface
 * [Thor](https://github.com/Bromeon/Thor) ⚠️ Archived - Extension with various game programming features, like particles, animations, vector operations.
-* [SelbaWard](https://github.com/Hapaxia/SelbaWard) ⭐ 215 | 🐛 3 | 🌐 C++ | 📅 2026-02-14 - A collection of drawables.
+* [SelbaWard](https://github.com/Hapaxia/SelbaWard) ⭐ 216 | 🐛 3 | 🌐 C++ | 📅 2026-02-14 - A collection of drawables.
 * [Candle](https://github.com/MiguelMJ/Candle) ⭐ 141 | 🐛 7 | 🌐 C++ | 📅 2024-04-27 - 2D lighting for SFML
 * [LTBL2](https://github.com/222464/LTBL2) ⭐ 114 | 🐛 4 | 🌐 C++ | 📅 2020-11-28 - A 2D dynamic lighting system with accurate soft shadows.
 * [Swoosh](https://github.com/TheMaverickProgrammer/Swoosh) ⭐ 73 | 🐛 7 | 🌐 Objective-C | 📅 2024-06-24 - SFML Activity and Segue Mini Library
@@ -61,7 +61,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 * [Pascal](https://github.com/CWBudde/PasSFML) ⭐ 56 | 🐛 5 | 🌐 Pascal | 📅 2017-03-12
 * [Ruby](https://github.com/Groogy/rbSFML) ⚠️ Archived
 * [Haskell](https://github.com/SFML-haskell/SFML) ⭐ 46 | 🐛 7 | 🌐 Haskell | 📅 2025-10-19
-* [Ada](https://github.com/mgrojo/ASFML) ⭐ 43 | 🐛 1 | 🌐 Ada | 📅 2026-08-27
+* [Ada](https://github.com/mgrojo/ASFML) ⭐ 43 | 🐛 1 | 🌐 Ada | 📅 2026-08-28
 * [Free Pascal Compiler aka FPC](https://github.com/DJMaster/csfml-fpc) ⭐ 16 | 🐛 0 | 🌐 Pascal | 📅 2020-09-12
 * [Euphoria](https://github.com/gAndy50/EuSFML2) ⭐ 5 | 🐛 0 | 🌐 Euphoria | 📅 2022-09-25
 * [C](https://www.sfml-dev.org/download/csfml)
@@ -92,7 +92,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 ## Websites
 
 * [www.sfml-dev.org](https://www.sfml-dev.org/) - Official site.
-  * The [community wiki](https://github.com/SFML/SFML/wiki/) ⭐ 11,993 | 🐛 153 | 🌐 C++ | 📅 2026-08-18
+  * The [community wiki](https://github.com/SFML/SFML/wiki/) ⭐ 11,995 | 🐛 153 | 🌐 C++ | 📅 2026-08-18
   * The [official tutorials](https://www.sfml-dev.org/tutorials/)
   * The [online API documentation](https://www.sfml-dev.org/documentation/)
   * The [community forum](https://en.sfml-dev.org/forums/) ([French](https://fr.sfml-dev.org/forums/))
@@ -201,4 +201,4 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

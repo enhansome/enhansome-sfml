@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T05:01:41Z",
                 "owner": "SFML",
                 "repo": "imgui-sfml",
-                "stars": 1362
+                "stars": 1363
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -33,7 +33,7 @@
                 "last_commit": "2026-08-12T21:47:52Z",
                 "owner": "texus",
                 "repo": "TGUI",
-                "stars": 1060
+                "stars": 1061
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -49,7 +49,7 @@
                 "last_commit": "2025-08-28T14:14:19Z",
                 "owner": "TankOs",
                 "repo": "SFGUI",
-                "stars": 447
+                "stars": 448
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -81,7 +81,7 @@
                 "last_commit": "2026-02-14T20:07:53Z",
                 "owner": "Hapaxia",
                 "repo": "SelbaWard",
-                "stars": 215
+                "stars": 216
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
             },
@@ -341,7 +341,7 @@
                 "archived": false,
                 "id": 298900902,
                 "language": "Ada",
-                "last_commit": "2026-08-27T19:13:17Z",
+                "last_commit": "2026-08-28T19:42:56Z",
                 "owner": "mgrojo",
                 "repo": "ASFML",
                 "stars": 43
@@ -512,7 +512,7 @@
                     "last_commit": "2026-08-18T13:41:34Z",
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 11993
+                    "stars": 11995
                   },
                   "first_seen": "2026-08-28T04:23:52.876Z"
                 }
@@ -965,7 +965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:23:52.876Z",
+    "last_updated": "2026-08-29T02:51:08.925Z",
     "original_repository_info": {
       "archived": false,
       "id": 129819282,
