@@ -746,7 +746,7 @@
                     "open_issues": 153,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 11999,
+                    "stars": 12000,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -1219,7 +1219,7 @@
                     "open_issues": 1,
                     "owner": "fallahn",
                     "repo": "pseuthe",
-                    "stars": 48,
+                    "stars": 49,
                     "topics": [
                       "game",
                       "sfml",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T22:50:02.426Z",
+    "last_updated": "2026-08-31T23:56:05.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",

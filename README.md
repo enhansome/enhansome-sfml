@@ -1,10 +1,10 @@
 # Awesome SFML with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,435 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,729 | 🐛 105 | 📅 2026-08-21
 
 > A curated list of awesome things related to SFML
 
-Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,435 | 🐛 105 | 📅 2026-08-21, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,637 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,663 | 🐛 26 | 📅 2026-05-03.
+Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,729 | 🐛 105 | 📅 2026-08-21, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,639 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,668 | 🐛 26 | 📅 2026-05-03.
 
 ### Contributing
 
@@ -92,7 +92,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 ## Websites
 
 * [www.sfml-dev.org](https://www.sfml-dev.org/) - Official site.
-  * The [community wiki](https://github.com/SFML/SFML/wiki/) ⭐ 11,999 | 🐛 153 | 🌐 C++ | 📅 2026-08-30
+  * The [community wiki](https://github.com/SFML/SFML/wiki/) ⭐ 12,000 | 🐛 153 | 🌐 C++ | 📅 2026-08-30
   * The [official tutorials](https://www.sfml-dev.org/tutorials/)
   * The [online API documentation](https://www.sfml-dev.org/documentation/)
   * The [community forum](https://en.sfml-dev.org/forums/) ([French](https://fr.sfml-dev.org/forums/))
@@ -142,7 +142,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 * [Cendric](https://github.com/tizian/Cendric2) ⭐ 308 | 🐛 7 | 🌐 C | 📅 2026-03-30 - Cendric is part top-down RPG and part puzzle platformer.
 * [Witch Blast](https://github.com/Cirrus-Minor/witchblast) ⭐ 227 | 🐛 12 | 🌐 C++ | 📅 2023-12-13 - Witch Blast is a free roguelite dungeon crawl shooter heavily inspired from Binding Of Isaac.
 * [sfml-snake](https://github.com/ParadoxZero/sfml-snake) ⭐ 112 | 🐛 6 | 🌐 C++ | 📅 2026-01-02 - Snake game in C++.
-* [Pseuthe](https://github.com/fallahn/pseuthe) ⭐ 48 | 🐛 1 | 🌐 C++ | 📅 2020-12-30 - Pseuthe (pronounced 'soothe') is an abstract audio / visual experience, with casual gameplay elements.
+* [Pseuthe](https://github.com/fallahn/pseuthe) ⭐ 49 | 🐛 1 | 🌐 C++ | 📅 2020-12-30 - Pseuthe (pronounced 'soothe') is an abstract audio / visual experience, with casual gameplay elements.
 * [SFML2-Game](https://github.com/JuDelCo/SFML2-Game) ⭐ 38 | 🐛 0 | 🌐 C++ | 📅 2013-11-17 - SFML2 - Random Games.
 * [Deerportal](https://github.com/deerportal/deerportal) ⭐ 34 | 🐛 1 | 🌐 C++ | 📅 2025-07-30 - Full of the diamonds 💎 board game driven by a 🦌 Deer 🦌 god and classical elements 🔥 💦 💨 🌍
 * [SpaceGO](https://github.com/Fromont-Sam/SpaceGO) ⭐ 18 | 🐛 0 | 🌐 C++ | 📅 2021-01-22 - A small space shooter game using C++ and SFML.
@@ -201,4 +201,4 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
