@@ -45,10 +45,10 @@
                 "language": "C++",
                 "license": "Zlib",
                 "last_commit": "2026-08-12T21:47:52Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "texus",
                 "repo": "TGUI",
-                "stars": 1064,
+                "stars": 1065,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -323,7 +323,7 @@
                 "open_issues": 17,
                 "owner": "jeremyletang",
                 "repo": "rust-sfml",
-                "stars": 672,
+                "stars": 670,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
@@ -445,7 +445,7 @@
                 "open_issues": 5,
                 "owner": "CWBudde",
                 "repo": "PasSFML",
-                "stars": 56,
+                "stars": 57,
                 "topics": [
                   "delphi",
                   "fpc",
@@ -742,8 +742,8 @@
                     "id": 1524684,
                     "language": "C++",
                     "license": "Zlib",
-                    "last_commit": "2026-08-30T18:11:27Z",
-                    "open_issues": 153,
+                    "last_commit": "2026-09-05T14:51:12Z",
+                    "open_issues": 154,
                     "owner": "SFML",
                     "repo": "SFML",
                     "stars": 12005,
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T22:25:25.857Z",
+    "last_updated": "2026-09-05T22:06:36.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
