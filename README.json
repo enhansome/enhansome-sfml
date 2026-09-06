@@ -44,8 +44,8 @@
                 "id": 4234723,
                 "language": "C++",
                 "license": "Zlib",
-                "last_commit": "2026-08-12T21:47:52Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-06T18:18:19Z",
+                "open_issues": 8,
                 "owner": "texus",
                 "repo": "TGUI",
                 "stars": 1065,
@@ -445,7 +445,7 @@
                 "open_issues": 5,
                 "owner": "CWBudde",
                 "repo": "PasSFML",
-                "stars": 57,
+                "stars": 58,
                 "topics": [
                   "delphi",
                   "fpc",
@@ -743,10 +743,10 @@
                     "language": "C++",
                     "license": "Zlib",
                     "last_commit": "2026-09-05T14:51:12Z",
-                    "open_issues": 154,
+                    "open_issues": 155,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12005,
+                    "stars": 12006,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -787,7 +787,7 @@
                 "open_issues": 18,
                 "owner": "SFML",
                 "repo": "SFML-Game-Development-Book",
-                "stars": 1035,
+                "stars": 1036,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T22:06:36.585Z",
+    "last_updated": "2026-09-06T22:10:27.231Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
