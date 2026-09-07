@@ -1,10 +1,10 @@
 # Awesome SFML with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,651 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,965 | 🐛 106 | 📅 2026-09-02
 
 > A curated list of awesome things related to SFML
 
-Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,651 | 🐛 106 | 📅 2026-09-02, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,655 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,723 | 🐛 25 | 📅 2026-09-02.
+Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,965 | 🐛 106 | 📅 2026-09-02, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,657 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,727 | 🐛 25 | 📅 2026-09-02.
 
 ### Contributing
 
@@ -139,7 +139,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 *Games with Open Source licenses*
 
 * [HopsonCraft](https://github.com/Hopson97/HopsonCraft) ⭐ 646 | 🐛 7 | 🌐 C++ | 📅 2024-02-17 - A minecraft clone written using C++, SFML, OpenGL and GLEW.
-* [Cendric](https://github.com/tizian/Cendric2) ⭐ 308 | 🐛 7 | 🌐 C | 📅 2026-03-30 - Cendric is part top-down RPG and part puzzle platformer.
+* [Cendric](https://github.com/tizian/Cendric2) ⭐ 309 | 🐛 7 | 🌐 C | 📅 2026-03-30 - Cendric is part top-down RPG and part puzzle platformer.
 * [Witch Blast](https://github.com/Cirrus-Minor/witchblast) ⭐ 228 | 🐛 12 | 🌐 C++ | 📅 2023-12-13 - Witch Blast is a free roguelite dungeon crawl shooter heavily inspired from Binding Of Isaac.
 * [sfml-snake](https://github.com/ParadoxZero/sfml-snake) ⭐ 112 | 🐛 6 | 🌐 C++ | 📅 2026-01-02 - Snake game in C++.
 * [Pseuthe](https://github.com/fallahn/pseuthe) ⭐ 49 | 🐛 1 | 🌐 C++ | 📅 2020-12-30 - Pseuthe (pronounced 'soothe') is an abstract audio / visual experience, with casual gameplay elements.
@@ -201,4 +201,4 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
