@@ -45,7 +45,7 @@
                 "language": "C++",
                 "license": "Zlib",
                 "last_commit": "2026-09-06T18:18:19Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "texus",
                 "repo": "TGUI",
                 "stars": 1067,
@@ -703,7 +703,7 @@
                 "open_issues": 12,
                 "owner": "fallahn",
                 "repo": "tmxlite",
-                "stars": 466,
+                "stars": 467,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -742,11 +742,11 @@
                     "id": 1524684,
                     "language": "C++",
                     "license": "Zlib",
-                    "last_commit": "2026-09-11T20:34:23Z",
-                    "open_issues": 158,
+                    "last_commit": "2026-09-12T17:59:43Z",
+                    "open_issues": 157,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12015,
+                    "stars": 12018,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -902,7 +902,7 @@
                 "open_issues": 124,
                 "owner": "ObEngine",
                 "repo": "ObEngine",
-                "stars": 862,
+                "stars": 863,
                 "topics": [
                   "2d",
                   "2d-framework",
@@ -938,7 +938,7 @@
                 "language": "C",
                 "license": "Zlib",
                 "last_commit": "2026-07-07T00:56:06Z",
-                "open_issues": 2,
+                "open_issues": 4,
                 "owner": "Is-Daouda",
                 "repo": "is-Engine",
                 "stars": 234,
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T22:40:27.730Z",
+    "last_updated": "2026-09-12T22:24:54.355Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
