@@ -48,7 +48,7 @@
                 "open_issues": 9,
                 "owner": "texus",
                 "repo": "TGUI",
-                "stars": 1067,
+                "stars": 1068,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -742,11 +742,11 @@
                     "id": 1524684,
                     "language": "C++",
                     "license": "Zlib",
-                    "last_commit": "2026-09-12T17:59:43Z",
+                    "last_commit": "2026-09-13T20:31:18Z",
                     "open_issues": 157,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12018,
+                    "stars": 12021,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -787,7 +787,7 @@
                 "open_issues": 18,
                 "owner": "SFML",
                 "repo": "SFML-Game-Development-Book",
-                "stars": 1037,
+                "stars": 1038,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
@@ -941,7 +941,7 @@
                 "open_issues": 4,
                 "owner": "Is-Daouda",
                 "repo": "is-Engine",
-                "stars": 234,
+                "stars": 235,
                 "topics": [
                   "android",
                   "android-studio",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T22:24:54.355Z",
+    "last_updated": "2026-09-13T22:29:26.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
