@@ -21,7 +21,7 @@
                 "open_issues": 28,
                 "owner": "SFML",
                 "repo": "imgui-sfml",
-                "stars": 1369,
+                "stars": 1368,
                 "topics": [
                   "binding",
                   "gui",
@@ -323,7 +323,7 @@
                 "open_issues": 17,
                 "owner": "jeremyletang",
                 "repo": "rust-sfml",
-                "stars": 669,
+                "stars": 671,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
@@ -742,11 +742,11 @@
                     "id": 1524684,
                     "language": "C++",
                     "license": "Zlib",
-                    "last_commit": "2026-09-13T20:31:18Z",
+                    "last_commit": "2026-09-14T19:43:15Z",
                     "open_issues": 157,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12021,
+                    "stars": 12023,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -937,8 +937,8 @@
                 "id": 163519422,
                 "language": "C",
                 "license": "Zlib",
-                "last_commit": "2026-07-07T00:56:06Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-14T16:48:45Z",
+                "open_issues": 2,
                 "owner": "Is-Daouda",
                 "repo": "is-Engine",
                 "stars": 235,
@@ -1193,7 +1193,7 @@
                     "open_issues": 6,
                     "owner": "ParadoxZero",
                     "repo": "sfml-snake",
-                    "stars": 112,
+                    "stars": 113,
                     "topics": [
                       "game-2d",
                       "game-development",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T22:29:26.319Z",
+    "last_updated": "2026-09-14T23:14:03.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
