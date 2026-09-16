@@ -21,7 +21,7 @@
                 "open_issues": 28,
                 "owner": "SFML",
                 "repo": "imgui-sfml",
-                "stars": 1369,
+                "stars": 1368,
                 "topics": [
                   "binding",
                   "gui",
@@ -48,7 +48,7 @@
                 "open_issues": 7,
                 "owner": "texus",
                 "repo": "TGUI",
-                "stars": 1068,
+                "stars": 1069,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T22:58:49.398Z",
+    "last_updated": "2026-09-16T23:03:25.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
