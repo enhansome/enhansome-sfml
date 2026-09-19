@@ -18,7 +18,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-08-21T05:01:41Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "SFML",
                 "repo": "imgui-sfml",
                 "stars": 1368,
@@ -746,7 +746,7 @@
                     "open_issues": 158,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12030,
+                    "stars": 12032,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -787,7 +787,7 @@
                 "open_issues": 18,
                 "owner": "SFML",
                 "repo": "SFML-Game-Development-Book",
-                "stars": 1038,
+                "stars": 1037,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
@@ -1172,7 +1172,7 @@
                     "open_issues": 12,
                     "owner": "Cirrus-Minor",
                     "repo": "witchblast",
-                    "stars": 228,
+                    "stars": 229,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:52.876Z"
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T22:41:02.342Z",
+    "last_updated": "2026-09-19T22:21:49.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
