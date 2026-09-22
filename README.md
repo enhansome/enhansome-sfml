@@ -1,10 +1,10 @@
 # Awesome SFML with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,623 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,015 | 🐛 106 | 📅 2026-09-02
 
 > A curated list of awesome things related to SFML
 
-Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 508,623 | 🐛 106 | 📅 2026-09-02, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,679 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,887 | 🐛 24 | 📅 2026-09-02.
+Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 509,015 | 🐛 106 | 📅 2026-09-02, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,681 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,900 | 🐛 24 | 📅 2026-09-02.
 
 ### Contributing
 
@@ -36,8 +36,8 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ## Components & Libraries
 
-* [imgui-sfml](https://github.com/eliasdaler/imgui-sfml) ⭐ 1,368 | 🐛 29 | 🌐 C++ | 📅 2026-08-21 - ImGui binding for use with SFML.
-* [TGUI](https://github.com/texus/TGUI) ⭐ 1,068 | 🐛 8 | 🌐 C++ | 📅 2026-09-06 - Easy to use cross-platform c++ GUI library for SFML.
+* [imgui-sfml](https://github.com/eliasdaler/imgui-sfml) ⭐ 1,367 | 🐛 29 | 🌐 C++ | 📅 2026-08-21 - ImGui binding for use with SFML.
+* [TGUI](https://github.com/texus/TGUI) ⭐ 1,068 | 🐛 9 | 🌐 C++ | 📅 2026-09-06 - Easy to use cross-platform c++ GUI library for SFML.
 * [SFGUI](https://github.com/TankOs/SFGUI) ⭐ 449 | 🐛 18 | 🌐 C++ | 📅 2025-08-28 - Simple and Fast Graphical User Interface
 * [Thor](https://github.com/Bromeon/Thor) ⚠️ Archived - Extension with various game programming features, like particles, animations, vector operations.
 * [SelbaWard](https://github.com/Hapaxia/SelbaWard) ⭐ 216 | 🐛 3 | 🌐 C++ | 📅 2026-02-14 - A collection of drawables.
@@ -92,7 +92,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 ## Websites
 
 * [www.sfml-dev.org](https://www.sfml-dev.org/) - Official site.
-  * The [community wiki](https://github.com/SFML/SFML/wiki/) ⭐ 12,034 | 🐛 158 | 🌐 C++ | 📅 2026-09-14
+  * The [community wiki](https://github.com/SFML/SFML/wiki/) ⭐ 12,036 | 🐛 158 | 🌐 C++ | 📅 2026-09-14
   * The [official tutorials](https://www.sfml-dev.org/tutorials/)
   * The [online API documentation](https://www.sfml-dev.org/documentation/)
   * The [community forum](https://en.sfml-dev.org/forums/) ([French](https://fr.sfml-dev.org/forums/))
@@ -101,7 +101,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ## Books
 
-* [SFML Game Development](https://github.com/SFML/SFML-Game-Development-Book) ⭐ 1,037 | 🐛 18 | 🌐 C++ | 📅 2015-09-27
+* [SFML Game Development](https://github.com/SFML/SFML-Game-Development-Book) ⭐ 1,038 | 🐛 18 | 🌐 C++ | 📅 2015-09-27
 * [SFML Blueprints](https://github.com/Krozark/SFML-book) ⭐ 82 | 🐛 2 | 🌐 C | 📅 2020-11-23
 * [Mastering SFML Game Development](https://github.com/PacktPublishing/Mastering-SFML-Game-Development) ⭐ 72 | 🐛 1 | 📅 2023-01-30
 * [SFML Essentials](https://www.packtpub.com/product/sfml-essentials/9781784397326)
@@ -201,4 +201,4 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._

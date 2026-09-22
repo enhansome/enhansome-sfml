@@ -21,7 +21,7 @@
                 "open_issues": 29,
                 "owner": "SFML",
                 "repo": "imgui-sfml",
-                "stars": 1368,
+                "stars": 1367,
                 "topics": [
                   "binding",
                   "gui",
@@ -45,7 +45,7 @@
                 "language": "C++",
                 "license": "Zlib",
                 "last_commit": "2026-09-06T18:18:19Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "texus",
                 "repo": "TGUI",
                 "stars": 1068,
@@ -746,7 +746,7 @@
                     "open_issues": 158,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12034,
+                    "stars": 12036,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -787,7 +787,7 @@
                 "open_issues": 18,
                 "owner": "SFML",
                 "repo": "SFML-Game-Development-Book",
-                "stars": 1037,
+                "stars": 1038,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T23:23:36.259Z",
+    "last_updated": "2026-09-22T23:03:06.756Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
