@@ -44,11 +44,11 @@
                 "id": 4234723,
                 "language": "C++",
                 "license": "Zlib",
-                "last_commit": "2026-09-06T18:18:19Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-23T16:47:58Z",
+                "open_issues": 8,
                 "owner": "texus",
                 "repo": "TGUI",
-                "stars": 1068,
+                "stars": 1069,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -833,7 +833,7 @@
                 "open_issues": 1,
                 "owner": "PacktPublishing",
                 "repo": "Mastering-SFML-Game-Development",
-                "stars": 72,
+                "stars": 73,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T23:03:06.756Z",
+    "last_updated": "2026-09-23T23:00:17.466Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
