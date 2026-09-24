@@ -1,10 +1,10 @@
 # Awesome SFML with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,436 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,955 | 🐛 107 | 📅 2026-09-02
 
 > A curated list of awesome things related to SFML
 
-Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 509,436 | 🐛 106 | 📅 2026-09-02, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,684 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,906 | 🐛 24 | 📅 2026-09-02.
+Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 509,955 | 🐛 107 | 📅 2026-09-02, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,687 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,919 | 🐛 24 | 📅 2026-09-02.
 
 ### Contributing
 
@@ -36,12 +36,12 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ## Components & Libraries
 
-* [imgui-sfml](https://github.com/eliasdaler/imgui-sfml) ⭐ 1,367 | 🐛 29 | 🌐 C++ | 📅 2026-08-21 - ImGui binding for use with SFML.
-* [TGUI](https://github.com/texus/TGUI) ⭐ 1,069 | 🐛 8 | 🌐 C++ | 📅 2026-09-23 - Easy to use cross-platform c++ GUI library for SFML.
+* [imgui-sfml](https://github.com/eliasdaler/imgui-sfml) ⭐ 1,368 | 🐛 29 | 🌐 C++ | 📅 2026-08-21 - ImGui binding for use with SFML.
+* [TGUI](https://github.com/texus/TGUI) ⭐ 1,070 | 🐛 8 | 🌐 C++ | 📅 2026-09-23 - Easy to use cross-platform c++ GUI library for SFML.
 * [SFGUI](https://github.com/TankOs/SFGUI) ⭐ 449 | 🐛 18 | 🌐 C++ | 📅 2025-08-28 - Simple and Fast Graphical User Interface
 * [Thor](https://github.com/Bromeon/Thor) ⚠️ Archived - Extension with various game programming features, like particles, animations, vector operations.
 * [SelbaWard](https://github.com/Hapaxia/SelbaWard) ⭐ 216 | 🐛 3 | 🌐 C++ | 📅 2026-02-14 - A collection of drawables.
-* [Candle](https://github.com/MiguelMJ/Candle) ⭐ 141 | 🐛 7 | 🌐 C++ | 📅 2024-04-27 - 2D lighting for SFML
+* [Candle](https://github.com/MiguelMJ/Candle) ⭐ 141 | 🐛 6 | 🌐 C++ | 📅 2026-09-24 - 2D lighting for SFML
 * [LTBL2](https://github.com/222464/LTBL2) ⭐ 114 | 🐛 4 | 🌐 C++ | 📅 2020-11-28 - A 2D dynamic lighting system with accurate soft shadows.
 * [Swoosh](https://github.com/TheMaverickProgrammer/Swoosh) ⭐ 73 | 🐛 7 | 🌐 Objective-C | 📅 2024-06-24 - SFML Activity and Segue Mini Library
 * [SFNUL](https://github.com/binary1248/SFNUL) ⭐ 51 | 🐛 1 | 🌐 C++ | 📅 2018-06-12 - Simple and Fast Network Utility Library.
@@ -201,4 +201,4 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
