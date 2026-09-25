@@ -703,7 +703,7 @@
                 "open_issues": 12,
                 "owner": "fallahn",
                 "repo": "tmxlite",
-                "stars": 467,
+                "stars": 468,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -746,7 +746,7 @@
                     "open_issues": 158,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12036,
+                    "stars": 12038,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -902,7 +902,7 @@
                 "open_issues": 124,
                 "owner": "ObEngine",
                 "repo": "ObEngine",
-                "stars": 863,
+                "stars": 864,
                 "topics": [
                   "2d",
                   "2d-framework",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T23:15:54.526Z",
+    "last_updated": "2026-09-25T23:21:14.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
