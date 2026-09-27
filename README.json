@@ -144,7 +144,7 @@
                 "open_issues": 6,
                 "owner": "MiguelMJ",
                 "repo": "Candle",
-                "stars": 141,
+                "stars": 142,
                 "topics": [
                   "2d-game",
                   "2d-lighting",
@@ -743,7 +743,7 @@
                     "language": "C++",
                     "license": "Zlib",
                     "last_commit": "2026-09-14T19:43:15Z",
-                    "open_issues": 158,
+                    "open_issues": 159,
                     "owner": "SFML",
                     "repo": "SFML",
                     "stars": 12039,
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T22:59:59.312Z",
+    "last_updated": "2026-09-27T23:10:20.192Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
