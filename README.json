@@ -310,7 +310,7 @@
             {
               "node_type": "item",
               "title": "Rust",
-              "description": null,
+              "description": "jeremyletang/rust-sfml",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -331,7 +331,7 @@
             {
               "node_type": "item",
               "title": "Crystal",
-              "description": null,
+              "description": "oprypin/crsfml",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -357,7 +357,7 @@
             {
               "node_type": "item",
               "title": "Python",
-              "description": null,
+              "description": "SFML/PySFML",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -384,7 +384,7 @@
             {
               "node_type": "item",
               "title": "Julia",
-              "description": null,
+              "description": "zyedidia/SFML.jl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -405,7 +405,7 @@
             {
               "node_type": "item",
               "title": "Nim",
-              "description": null,
+              "description": "oprypin/nim-csfml",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -432,7 +432,7 @@
             {
               "node_type": "item",
               "title": "Pascal",
-              "description": null,
+              "description": "CWBudde/PasSFML",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -461,7 +461,7 @@
             {
               "node_type": "item",
               "title": "Ruby",
-              "description": null,
+              "description": "Groogy/rbSFML",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -482,7 +482,7 @@
             {
               "node_type": "item",
               "title": "Haskell",
-              "description": null,
+              "description": "SFML-haskell/SFML",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -503,7 +503,7 @@
             {
               "node_type": "item",
               "title": "Ada",
-              "description": null,
+              "description": "mgrojo/ASFML",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -534,7 +534,7 @@
             {
               "node_type": "item",
               "title": "Free Pascal Compiler aka FPC",
-              "description": null,
+              "description": "DJMaster/csfml-fpc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -557,7 +557,7 @@
             {
               "node_type": "item",
               "title": "Euphoria",
-              "description": null,
+              "description": "gAndy50/EuSFML2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -583,7 +583,7 @@
                 {
                   "node_type": "item",
                   "title": "DerelictSFML2",
-                  "description": null,
+                  "description": "DerelictOrg/DerelictSFML2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -611,7 +611,7 @@
                 {
                   "node_type": "item",
                   "title": "go-sfml",
-                  "description": null,
+                  "description": "Telroshan/go-sfml",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -639,7 +639,7 @@
                 {
                   "node_type": "item",
                   "title": "ocaml-sfml",
-                  "description": null,
+                  "description": "fccm/ocaml-sfml",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -660,7 +660,7 @@
                 {
                   "node_type": "item",
                   "title": "Ocsfml",
-                  "description": null,
+                  "description": "JoeDralliam/Ocsfml",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -733,7 +733,7 @@
                 {
                   "node_type": "item",
                   "title": "The community wiki",
-                  "description": null,
+                  "description": "SFML/SFML",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -774,7 +774,7 @@
             {
               "node_type": "item",
               "title": "SFML Game Development",
-              "description": null,
+              "description": "SFML/SFML-Game-Development-Book",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -795,7 +795,7 @@
             {
               "node_type": "item",
               "title": "SFML Blueprints",
-              "description": null,
+              "description": "Krozark/SFML-book",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -820,7 +820,7 @@
             {
               "node_type": "item",
               "title": "Mastering SFML Game Development",
-              "description": null,
+              "description": "PacktPublishing/Mastering-SFML-Game-Development",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:52:08.634Z",
+    "last_updated": "2026-10-03T05:06:17.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
