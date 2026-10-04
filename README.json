@@ -44,11 +44,11 @@
                 "id": 4234723,
                 "language": "C++",
                 "license": "Zlib",
-                "last_commit": "2026-10-03T18:18:22Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-04T18:37:59Z",
+                "open_issues": 7,
                 "owner": "texus",
                 "repo": "TGUI",
-                "stars": 1070,
+                "stars": 1071,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -73,8 +73,8 @@
                 "id": 13435050,
                 "language": "C++",
                 "license": "Zlib",
-                "last_commit": "2026-10-03T16:45:05Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-04T20:14:19Z",
+                "open_issues": 17,
                 "owner": "TankOs",
                 "repo": "SFGUI",
                 "stars": 449,
@@ -323,7 +323,7 @@
                 "open_issues": 17,
                 "owner": "jeremyletang",
                 "repo": "rust-sfml",
-                "stars": 672,
+                "stars": 671,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
@@ -742,11 +742,11 @@
                     "id": 1524684,
                     "language": "C++",
                     "license": "Zlib",
-                    "last_commit": "2026-09-14T19:43:15Z",
-                    "open_issues": 162,
+                    "last_commit": "2026-10-04T20:39:49Z",
+                    "open_issues": 164,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12048,
+                    "stars": 12052,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -787,7 +787,7 @@
                 "open_issues": 18,
                 "owner": "SFML",
                 "repo": "SFML-Game-Development-Book",
-                "stars": 1039,
+                "stars": 1037,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
@@ -902,7 +902,7 @@
                 "open_issues": 124,
                 "owner": "ObEngine",
                 "repo": "ObEngine",
-                "stars": 863,
+                "stars": 864,
                 "topics": [
                   "2d",
                   "2d-framework",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T23:11:11.640Z",
+    "last_updated": "2026-10-04T23:19:00.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
