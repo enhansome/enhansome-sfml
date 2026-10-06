@@ -1,10 +1,10 @@
 # Awesome SFML with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,674 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,178 | 🐛 107 | 📅 2026-09-02
 
 > A curated list of awesome things related to SFML
 
-Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 514,674 | 🐛 107 | 📅 2026-09-02, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,701 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,004 | 🐛 24 | 📅 2026-09-02.
+Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,178 | 🐛 107 | 📅 2026-09-02, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,703 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,015 | 🐛 24 | 📅 2026-09-02.
 
 ### Contributing
 
@@ -36,9 +36,9 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ## Components & Libraries
 
-* [imgui-sfml](https://github.com/eliasdaler/imgui-sfml) ⭐ 1,370 | 🐛 30 | 🌐 C++ | 📅 2026-08-21 - ImGui binding for use with SFML.
+* [imgui-sfml](https://github.com/eliasdaler/imgui-sfml) ⭐ 1,371 | 🐛 30 | 🌐 C++ | 📅 2026-08-21 - ImGui binding for use with SFML.
 * [TGUI](https://github.com/texus/TGUI) ⭐ 1,071 | 🐛 7 | 🌐 C++ | 📅 2026-10-04 - Easy to use cross-platform c++ GUI library for SFML.
-* [SFGUI](https://github.com/TankOs/SFGUI) ⭐ 449 | 🐛 17 | 🌐 C++ | 📅 2026-10-04 - Simple and Fast Graphical User Interface
+* [SFGUI](https://github.com/TankOs/SFGUI) ⭐ 449 | 🐛 17 | 🌐 C++ | 📅 2026-10-05 - Simple and Fast Graphical User Interface
 * [Thor](https://github.com/Bromeon/Thor) ⚠️ Archived - Extension with various game programming features, like particles, animations, vector operations.
 * [SelbaWard](https://github.com/Hapaxia/SelbaWard) ⭐ 216 | 🐛 3 | 🌐 C++ | 📅 2026-02-14 - A collection of drawables.
 * [Candle](https://github.com/MiguelMJ/Candle) ⭐ 142 | 🐛 7 | 🌐 C++ | 📅 2026-09-24 - 2D lighting for SFML
@@ -81,7 +81,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 *Non-Game specific Library bundles, that provide reuseable functions*
 
-* [tmxlite](https://github.com/fallahn/tmxlite) ⭐ 468 | 🐛 12 | 🌐 C++ | 📅 2026-04-27 -  Lightweight C++14 parser for Tiled tmx files.
+* [tmxlite](https://github.com/fallahn/tmxlite) ⭐ 469 | 🐛 12 | 🌐 C++ | 📅 2026-04-27 -  Lightweight C++14 parser for Tiled tmx files.
 
 ## Tools
 
@@ -92,7 +92,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 ## Websites
 
 * [www.sfml-dev.org](https://www.sfml-dev.org/) - Official site.
-  * The [community wiki](https://github.com/SFML/SFML/wiki/) ⭐ 12,052 | 🐛 164 | 🌐 C++ | 📅 2026-10-04
+  * The [community wiki](https://github.com/SFML/SFML/wiki/) ⭐ 12,055 | 🐛 160 | 🌐 C++ | 📅 2026-10-05
   * The [official tutorials](https://www.sfml-dev.org/tutorials/)
   * The [online API documentation](https://www.sfml-dev.org/documentation/)
   * The [community forum](https://en.sfml-dev.org/forums/) ([French](https://fr.sfml-dev.org/forums/))
@@ -138,7 +138,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 *Games with Open Source licenses*
 
-* [HopsonCraft](https://github.com/Hopson97/HopsonCraft) ⭐ 645 | 🐛 7 | 🌐 C++ | 📅 2024-02-17 - A minecraft clone written using C++, SFML, OpenGL and GLEW.
+* [HopsonCraft](https://github.com/Hopson97/HopsonCraft) ⭐ 646 | 🐛 7 | 🌐 C++ | 📅 2024-02-17 - A minecraft clone written using C++, SFML, OpenGL and GLEW.
 * [Cendric](https://github.com/tizian/Cendric2) ⭐ 309 | 🐛 7 | 🌐 C | 📅 2026-03-30 - Cendric is part top-down RPG and part puzzle platformer.
 * [Witch Blast](https://github.com/Cirrus-Minor/witchblast) ⭐ 229 | 🐛 12 | 🌐 C++ | 📅 2023-12-13 - Witch Blast is a free roguelite dungeon crawl shooter heavily inspired from Binding Of Isaac.
 * [sfml-snake](https://github.com/ParadoxZero/sfml-snake) ⭐ 113 | 🐛 6 | 🌐 C++ | 📅 2026-01-02 - Snake game in C++.
@@ -201,4 +201,4 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

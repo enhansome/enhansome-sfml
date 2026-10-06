@@ -21,7 +21,7 @@
                 "open_issues": 30,
                 "owner": "SFML",
                 "repo": "imgui-sfml",
-                "stars": 1370,
+                "stars": 1371,
                 "topics": [
                   "binding",
                   "gui",
@@ -73,7 +73,7 @@
                 "id": 13435050,
                 "language": "C++",
                 "license": "Zlib",
-                "last_commit": "2026-10-04T20:14:19Z",
+                "last_commit": "2026-10-05T09:05:17Z",
                 "open_issues": 17,
                 "owner": "TankOs",
                 "repo": "SFGUI",
@@ -703,7 +703,7 @@
                 "open_issues": 12,
                 "owner": "fallahn",
                 "repo": "tmxlite",
-                "stars": 468,
+                "stars": 469,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -742,11 +742,11 @@
                     "id": 1524684,
                     "language": "C++",
                     "license": "Zlib",
-                    "last_commit": "2026-10-04T20:39:49Z",
-                    "open_issues": 164,
+                    "last_commit": "2026-10-05T18:43:37Z",
+                    "open_issues": 160,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12052,
+                    "stars": 12055,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -1125,7 +1125,7 @@
                     "open_issues": 7,
                     "owner": "Hopson97",
                     "repo": "HopsonCraft",
-                    "stars": 645,
+                    "stars": 646,
                     "topics": [
                       "game",
                       "minecraft",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T23:19:00.529Z",
+    "last_updated": "2026-10-06T01:20:41.636Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
