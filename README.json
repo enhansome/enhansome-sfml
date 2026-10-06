@@ -746,7 +746,7 @@
                     "open_issues": 160,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12055,
+                    "stars": 12056,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -1010,7 +1010,7 @@
                 "open_issues": 3,
                 "owner": "Hopson97",
                 "repo": "SFML-Game-Framework",
-                "stars": 154,
+                "stars": 155,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:20:41.636Z",
+    "last_updated": "2026-10-06T10:37:29.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
