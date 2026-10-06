@@ -21,7 +21,7 @@
                 "open_issues": 30,
                 "owner": "SFML",
                 "repo": "imgui-sfml",
-                "stars": 1371,
+                "stars": 1370,
                 "topics": [
                   "binding",
                   "gui",
@@ -323,7 +323,7 @@
                 "open_issues": 17,
                 "owner": "jeremyletang",
                 "repo": "rust-sfml",
-                "stars": 671,
+                "stars": 670,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
@@ -742,11 +742,11 @@
                     "id": 1524684,
                     "language": "C++",
                     "license": "Zlib",
-                    "last_commit": "2026-10-05T18:43:37Z",
+                    "last_commit": "2026-10-06T21:55:42Z",
                     "open_issues": 160,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12056,
+                    "stars": 12057,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:37:29.645Z",
+    "last_updated": "2026-10-06T23:54:31.392Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
