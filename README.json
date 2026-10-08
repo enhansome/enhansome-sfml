@@ -746,7 +746,7 @@
                     "open_issues": 160,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12057,
+                    "stars": 12058,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -902,7 +902,7 @@
                 "open_issues": 124,
                 "owner": "ObEngine",
                 "repo": "ObEngine",
-                "stars": 864,
+                "stars": 865,
                 "topics": [
                   "2d",
                   "2d-framework",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T23:54:31.392Z",
+    "last_updated": "2026-10-08T00:16:17.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
