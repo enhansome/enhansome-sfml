@@ -73,7 +73,7 @@
                 "id": 13435050,
                 "language": "C++",
                 "license": "Zlib",
-                "last_commit": "2026-10-05T09:05:17Z",
+                "last_commit": "2026-10-08T10:33:35Z",
                 "open_issues": 17,
                 "owner": "TankOs",
                 "repo": "SFGUI",
@@ -140,8 +140,8 @@
                 "id": 298553536,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-24T18:36:35Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-08T08:44:02Z",
+                "open_issues": 6,
                 "owner": "MiguelMJ",
                 "repo": "Candle",
                 "stars": 142,
@@ -746,7 +746,7 @@
                     "open_issues": 160,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12058,
+                    "stars": 12057,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -1125,7 +1125,7 @@
                     "open_issues": 7,
                     "owner": "Hopson97",
                     "repo": "HopsonCraft",
-                    "stars": 646,
+                    "stars": 647,
                     "topics": [
                       "game",
                       "minecraft",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T00:16:17.450Z",
+    "last_updated": "2026-10-09T00:29:39.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
