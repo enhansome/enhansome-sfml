@@ -48,7 +48,7 @@
                 "open_issues": 7,
                 "owner": "texus",
                 "repo": "TGUI",
-                "stars": 1073,
+                "stars": 1075,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -746,7 +746,7 @@
                     "open_issues": 153,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12061,
+                    "stars": 12063,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:07:40.634Z",
+    "last_updated": "2026-10-13T23:46:13.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
