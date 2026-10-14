@@ -48,7 +48,7 @@
                 "open_issues": 7,
                 "owner": "texus",
                 "repo": "TGUI",
-                "stars": 1075,
+                "stars": 1077,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -144,7 +144,7 @@
                 "open_issues": 6,
                 "owner": "MiguelMJ",
                 "repo": "Candle",
-                "stars": 142,
+                "stars": 141,
                 "topics": [
                   "2d-game",
                   "2d-lighting",
@@ -742,11 +742,11 @@
                     "id": 1524684,
                     "language": "C++",
                     "license": "Zlib",
-                    "last_commit": "2026-10-12T13:02:04Z",
-                    "open_issues": 153,
+                    "last_commit": "2026-10-14T17:56:12Z",
+                    "open_issues": 155,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12063,
+                    "stars": 12065,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T23:46:13.770Z",
+    "last_updated": "2026-10-14T23:19:08.265Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
@@ -1447,7 +1447,7 @@
       "open_issues": 0,
       "owner": "JustCaptcha",
       "repo": "awesome-sfml",
-      "stars": 109,
+      "stars": 110,
       "topics": [
         "awesome",
         "awesome-list",
