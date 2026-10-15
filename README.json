@@ -742,11 +742,11 @@
                     "id": 1524684,
                     "language": "C++",
                     "license": "Zlib",
-                    "last_commit": "2026-10-14T17:56:12Z",
-                    "open_issues": 155,
+                    "last_commit": "2026-10-15T14:45:19Z",
+                    "open_issues": 158,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12065,
+                    "stars": 12066,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T23:19:08.265Z",
+    "last_updated": "2026-10-15T23:07:54.408Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
