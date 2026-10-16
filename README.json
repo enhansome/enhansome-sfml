@@ -742,11 +742,11 @@
                     "id": 1524684,
                     "language": "C++",
                     "license": "Zlib",
-                    "last_commit": "2026-10-15T14:45:19Z",
+                    "last_commit": "2026-10-16T17:54:07Z",
                     "open_issues": 158,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12066,
+                    "stars": 12068,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -1125,7 +1125,7 @@
                     "open_issues": 7,
                     "owner": "Hopson97",
                     "repo": "HopsonCraft",
-                    "stars": 647,
+                    "stars": 646,
                     "topics": [
                       "game",
                       "minecraft",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T23:07:54.408Z",
+    "last_updated": "2026-10-16T22:54:17.487Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
