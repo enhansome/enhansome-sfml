@@ -18,7 +18,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-08-21T05:01:41Z",
-                "open_issues": 30,
+                "open_issues": 31,
                 "owner": "SFML",
                 "repo": "imgui-sfml",
                 "stars": 1371,
@@ -44,8 +44,8 @@
                 "id": 4234723,
                 "language": "C++",
                 "license": "Zlib",
-                "last_commit": "2026-10-04T18:37:59Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-17T20:19:21Z",
+                "open_issues": 8,
                 "owner": "texus",
                 "repo": "TGUI",
                 "stars": 1077,
@@ -746,7 +746,7 @@
                     "open_issues": 158,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12068,
+                    "stars": 12070,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -1148,7 +1148,7 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-03-30T16:59:15Z",
-                    "open_issues": 7,
+                    "open_issues": 8,
                     "owner": "tizian",
                     "repo": "Cendric2",
                     "stars": 309,
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T22:54:17.487Z",
+    "last_updated": "2026-10-17T22:28:17.444Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
