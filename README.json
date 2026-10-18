@@ -45,7 +45,7 @@
                 "language": "C++",
                 "license": "Zlib",
                 "last_commit": "2026-10-17T20:19:21Z",
-                "open_issues": 8,
+                "open_issues": 7,
                 "owner": "texus",
                 "repo": "TGUI",
                 "stars": 1077,
@@ -743,10 +743,10 @@
                     "language": "C++",
                     "license": "Zlib",
                     "last_commit": "2026-10-16T17:54:07Z",
-                    "open_issues": 158,
+                    "open_issues": 157,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12070,
+                    "stars": 12071,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -1125,7 +1125,7 @@
                     "open_issues": 7,
                     "owner": "Hopson97",
                     "repo": "HopsonCraft",
-                    "stars": 646,
+                    "stars": 647,
                     "topics": [
                       "game",
                       "minecraft",
@@ -1147,8 +1147,8 @@
                     "id": 31741698,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-03-30T16:59:15Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-10-18T20:10:24Z",
+                    "open_issues": 7,
                     "owner": "tizian",
                     "repo": "Cendric2",
                     "stars": 309,
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T22:28:17.444Z",
+    "last_updated": "2026-10-18T22:29:29.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
