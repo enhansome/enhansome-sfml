@@ -144,7 +144,7 @@
                 "open_issues": 6,
                 "owner": "MiguelMJ",
                 "repo": "Candle",
-                "stars": 141,
+                "stars": 142,
                 "topics": [
                   "2d-game",
                   "2d-lighting",
@@ -746,7 +746,7 @@
                     "open_issues": 157,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12071,
+                    "stars": 12074,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -902,7 +902,7 @@
                 "open_issues": 124,
                 "owner": "ObEngine",
                 "repo": "ObEngine",
-                "stars": 865,
+                "stars": 866,
                 "topics": [
                   "2d",
                   "2d-framework",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T22:29:29.746Z",
+    "last_updated": "2026-10-19T23:49:12.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
