@@ -703,7 +703,7 @@
                 "open_issues": 12,
                 "owner": "fallahn",
                 "repo": "tmxlite",
-                "stars": 469,
+                "stars": 468,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -742,11 +742,11 @@
                     "id": 1524684,
                     "language": "C++",
                     "license": "Zlib",
-                    "last_commit": "2026-10-16T17:54:07Z",
-                    "open_issues": 157,
+                    "last_commit": "2026-10-20T17:57:19Z",
+                    "open_issues": 154,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12074,
+                    "stars": 12075,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -902,7 +902,7 @@
                 "open_issues": 124,
                 "owner": "ObEngine",
                 "repo": "ObEngine",
-                "stars": 866,
+                "stars": 867,
                 "topics": [
                   "2d",
                   "2d-framework",
@@ -1125,7 +1125,7 @@
                     "open_issues": 7,
                     "owner": "Hopson97",
                     "repo": "HopsonCraft",
-                    "stars": 647,
+                    "stars": 648,
                     "topics": [
                       "game",
                       "minecraft",
@@ -1148,7 +1148,7 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-10-18T20:10:24Z",
-                    "open_issues": 7,
+                    "open_issues": 8,
                     "owner": "tizian",
                     "repo": "Cendric2",
                     "stars": 309,
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T23:49:12.626Z",
+    "last_updated": "2026-10-20T23:14:55.614Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
