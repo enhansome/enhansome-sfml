@@ -746,7 +746,7 @@
                     "open_issues": 154,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12075,
+                    "stars": 12076,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T23:14:55.614Z",
+    "last_updated": "2026-10-21T23:28:23.828Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",

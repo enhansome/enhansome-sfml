@@ -1,10 +1,10 @@
 # Awesome SFML with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 521,926 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 522,372 | 🐛 105 | 📅 2026-09-02
 
 > A curated list of awesome things related to SFML
 
-Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,926 | 🐛 105 | 📅 2026-09-02, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,735 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,187 | 🐛 24 | 📅 2026-09-02.
+Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 522,372 | 🐛 105 | 📅 2026-09-02, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,740 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,205 | 🐛 24 | 📅 2026-09-02.
 
 ### Contributing
 
@@ -92,7 +92,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 ## Websites
 
 * [www.sfml-dev.org](https://www.sfml-dev.org/) - Official site.
-  * The [community wiki](https://github.com/SFML/SFML/wiki/) ⭐ 12,075 | 🐛 154 | 🌐 C++ | 📅 2026-10-20
+  * The [community wiki](https://github.com/SFML/SFML/wiki/) ⭐ 12,076 | 🐛 154 | 🌐 C++ | 📅 2026-10-20
   * The [official tutorials](https://www.sfml-dev.org/tutorials/)
   * The [online API documentation](https://www.sfml-dev.org/documentation/)
   * The [community forum](https://en.sfml-dev.org/forums/) ([French](https://fr.sfml-dev.org/forums/))
@@ -201,4 +201,4 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
