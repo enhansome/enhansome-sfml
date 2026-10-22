@@ -746,7 +746,7 @@
                     "open_issues": 154,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12076,
+                    "stars": 12079,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -902,7 +902,7 @@
                 "open_issues": 124,
                 "owner": "ObEngine",
                 "repo": "ObEngine",
-                "stars": 867,
+                "stars": 868,
                 "topics": [
                   "2d",
                   "2d-framework",
@@ -1147,8 +1147,8 @@
                     "id": 31741698,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-18T20:10:24Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-10-22T14:43:50Z",
+                    "open_issues": 7,
                     "owner": "tizian",
                     "repo": "Cendric2",
                     "stars": 309,
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T23:28:23.828Z",
+    "last_updated": "2026-10-22T23:28:01.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
@@ -1447,7 +1447,7 @@
       "open_issues": 0,
       "owner": "JustCaptcha",
       "repo": "awesome-sfml",
-      "stars": 110,
+      "stars": 111,
       "topics": [
         "awesome",
         "awesome-list",
