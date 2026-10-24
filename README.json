@@ -21,7 +21,7 @@
                 "open_issues": 31,
                 "owner": "SFML",
                 "repo": "imgui-sfml",
-                "stars": 1371,
+                "stars": 1372,
                 "topics": [
                   "binding",
                   "gui",
@@ -1088,7 +1088,7 @@
                 "open_issues": 0,
                 "owner": "nantr0nic",
                 "repo": "sfml3-game-template",
-                "stars": 3,
+                "stars": 4,
                 "topics": [
                   "ecs",
                   "entt",
@@ -1148,7 +1148,7 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-10-22T14:43:50Z",
-                    "open_issues": 7,
+                    "open_issues": 8,
                     "owner": "tizian",
                     "repo": "Cendric2",
                     "stars": 309,
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T23:14:53.880Z",
+    "last_updated": "2026-10-24T22:35:25.979Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",

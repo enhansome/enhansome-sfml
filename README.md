@@ -1,10 +1,10 @@
 # Awesome SFML with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 523,638 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 524,146 | 🐛 105 | 📅 2026-09-02
 
 > A curated list of awesome things related to SFML
 
-Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 523,638 | 🐛 105 | 📅 2026-09-02, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,742 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,229 | 🐛 24 | 📅 2026-09-02.
+Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 524,146 | 🐛 105 | 📅 2026-09-02, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,745 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,249 | 🐛 24 | 📅 2026-09-02.
 
 ### Contributing
 
@@ -36,7 +36,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ## Components & Libraries
 
-* [imgui-sfml](https://github.com/eliasdaler/imgui-sfml) ⭐ 1,371 | 🐛 31 | 🌐 C++ | 📅 2026-08-21 - ImGui binding for use with SFML.
+* [imgui-sfml](https://github.com/eliasdaler/imgui-sfml) ⭐ 1,372 | 🐛 31 | 🌐 C++ | 📅 2026-08-21 - ImGui binding for use with SFML.
 * [TGUI](https://github.com/texus/TGUI) ⭐ 1,077 | 🐛 7 | 🌐 C++ | 📅 2026-10-17 - Easy to use cross-platform c++ GUI library for SFML.
 * [SFGUI](https://github.com/TankOs/SFGUI) ⭐ 449 | 🐛 17 | 🌐 C++ | 📅 2026-10-08 - Simple and Fast Graphical User Interface
 * [Thor](https://github.com/Bromeon/Thor) ⚠️ Archived - Extension with various game programming features, like particles, animations, vector operations.
@@ -130,7 +130,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 * [SFML-Game-Framework](https://github.com/Hopson97/SFML-Game-Framework) ⭐ 155 | 🐛 3 | 🌐 C++ | 📅 2023-01-29 - Very, very simple and barebones framework for games and that.
 * [Vigilante-Game-Framework](https://github.com/gamepopper/Vigilante-Game-Framework) ⭐ 72 | 🐛 0 | 🌐 C++ | 📅 2026-06-07 - 2D/3D C++ game framework written for use with SFML.
 * [Nero Game Engine](https://github.com/NeroGames/Nero-Game-Engine) ⭐ 61 | 🐛 1 | 🌐 C++ | 📅 2024-02-02 - Advanced SFML Game Engine, Designed to be Simple and Intuitive
-* [SFML3-Game-Template](https://github.com/nantr0nic/sfml3-game-template) ⭐ 3 | 🐛 0 | 🌐 C++ | 📅 2026-05-15 - A data-oriented C++23 starter template for game development using SFML 3.
+* [SFML3-Game-Template](https://github.com/nantr0nic/sfml3-game-template) ⭐ 4 | 🐛 0 | 🌐 C++ | 📅 2026-05-15 - A data-oriented C++23 starter template for game development using SFML 3.
 
 ## Games
 
@@ -139,7 +139,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 *Games with Open Source licenses*
 
 * [HopsonCraft](https://github.com/Hopson97/HopsonCraft) ⭐ 648 | 🐛 7 | 🌐 C++ | 📅 2024-02-17 - A minecraft clone written using C++, SFML, OpenGL and GLEW.
-* [Cendric](https://github.com/tizian/Cendric2) ⭐ 309 | 🐛 7 | 🌐 C | 📅 2026-10-22 - Cendric is part top-down RPG and part puzzle platformer.
+* [Cendric](https://github.com/tizian/Cendric2) ⭐ 309 | 🐛 8 | 🌐 C | 📅 2026-10-22 - Cendric is part top-down RPG and part puzzle platformer.
 * [Witch Blast](https://github.com/Cirrus-Minor/witchblast) ⭐ 229 | 🐛 12 | 🌐 C++ | 📅 2023-12-13 - Witch Blast is a free roguelite dungeon crawl shooter heavily inspired from Binding Of Isaac.
 * [sfml-snake](https://github.com/ParadoxZero/sfml-snake) ⭐ 113 | 🐛 6 | 🌐 C++ | 📅 2026-01-02 - Snake game in C++.
 * [Pseuthe](https://github.com/fallahn/pseuthe) ⭐ 49 | 🐛 1 | 🌐 C++ | 📅 2020-12-30 - Pseuthe (pronounced 'soothe') is an abstract audio / visual experience, with casual gameplay elements.
@@ -201,4 +201,4 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
