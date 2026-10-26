@@ -21,7 +21,7 @@
                 "open_issues": 31,
                 "owner": "SFML",
                 "repo": "imgui-sfml",
-                "stars": 1372,
+                "stars": 1373,
                 "topics": [
                   "binding",
                   "gui",
@@ -144,7 +144,7 @@
                 "open_issues": 6,
                 "owner": "MiguelMJ",
                 "repo": "Candle",
-                "stars": 142,
+                "stars": 143,
                 "topics": [
                   "2d-game",
                   "2d-lighting",
@@ -746,7 +746,7 @@
                     "open_issues": 154,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12081,
+                    "stars": 12085,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -1147,8 +1147,8 @@
                     "id": 31741698,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-22T14:43:50Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-10-26T20:15:24Z",
+                    "open_issues": 7,
                     "owner": "tizian",
                     "repo": "Cendric2",
                     "stars": 309,
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T22:40:21.372Z",
+    "last_updated": "2026-10-26T23:57:02.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
