@@ -48,7 +48,7 @@
                 "open_issues": 7,
                 "owner": "texus",
                 "repo": "TGUI",
-                "stars": 1077,
+                "stars": 1078,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -746,7 +746,7 @@
                     "open_issues": 154,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12085,
+                    "stars": 12088,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -787,7 +787,7 @@
                 "open_issues": 18,
                 "owner": "SFML",
                 "repo": "SFML-Game-Development-Book",
-                "stars": 1039,
+                "stars": 1040,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
@@ -902,7 +902,7 @@
                 "open_issues": 124,
                 "owner": "ObEngine",
                 "repo": "ObEngine",
-                "stars": 868,
+                "stars": 867,
                 "topics": [
                   "2d",
                   "2d-framework",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T23:57:02.830Z",
+    "last_updated": "2026-10-27T23:51:56.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
