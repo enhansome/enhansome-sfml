@@ -48,7 +48,7 @@
                 "open_issues": 7,
                 "owner": "texus",
                 "repo": "TGUI",
-                "stars": 1078,
+                "stars": 1079,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -746,7 +746,7 @@
                     "open_issues": 154,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12098,
+                    "stars": 12100,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -787,7 +787,7 @@
                 "open_issues": 18,
                 "owner": "SFML",
                 "repo": "SFML-Game-Development-Book",
-                "stars": 1042,
+                "stars": 1041,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
@@ -1125,7 +1125,7 @@
                     "open_issues": 7,
                     "owner": "Hopson97",
                     "repo": "HopsonCraft",
-                    "stars": 650,
+                    "stars": 649,
                     "topics": [
                       "game",
                       "minecraft",
@@ -1172,7 +1172,7 @@
                     "open_issues": 12,
                     "owner": "Cirrus-Minor",
                     "repo": "witchblast",
-                    "stars": 229,
+                    "stars": 228,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:52.876Z"
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T00:59:09.046Z",
+    "last_updated": "2026-11-07T00:09:41.532Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
