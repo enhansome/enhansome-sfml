@@ -746,7 +746,7 @@
                     "open_issues": 154,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12100,
+                    "stars": 12102,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -1125,7 +1125,7 @@
                     "open_issues": 7,
                     "owner": "Hopson97",
                     "repo": "HopsonCraft",
-                    "stars": 649,
+                    "stars": 648,
                     "topics": [
                       "game",
                       "minecraft",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T00:09:41.532Z",
+    "last_updated": "2026-11-07T23:43:05.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
