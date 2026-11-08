@@ -44,7 +44,7 @@
                 "id": 4234723,
                 "language": "C++",
                 "license": "Zlib",
-                "last_commit": "2026-10-29T21:03:10Z",
+                "last_commit": "2026-11-08T22:51:11Z",
                 "open_issues": 7,
                 "owner": "texus",
                 "repo": "TGUI",
@@ -746,7 +746,7 @@
                     "open_issues": 154,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12102,
+                    "stars": 12104,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -902,7 +902,7 @@
                 "open_issues": 124,
                 "owner": "ObEngine",
                 "repo": "ObEngine",
-                "stars": 868,
+                "stars": 869,
                 "topics": [
                   "2d",
                   "2d-framework",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T23:43:05.264Z",
+    "last_updated": "2026-11-08T23:49:39.910Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
