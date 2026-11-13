@@ -48,7 +48,7 @@
                 "open_issues": 7,
                 "owner": "texus",
                 "repo": "TGUI",
-                "stars": 1079,
+                "stars": 1080,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -77,7 +77,7 @@
                 "open_issues": 17,
                 "owner": "TankOs",
                 "repo": "SFGUI",
-                "stars": 449,
+                "stars": 448,
                 "topics": [
                   "c-plus-plus",
                   "gamedev",
@@ -746,7 +746,7 @@
                     "open_issues": 154,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12104,
+                    "stars": 12105,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -1151,7 +1151,7 @@
                     "open_issues": 7,
                     "owner": "tizian",
                     "repo": "Cendric2",
-                    "stars": 309,
+                    "stars": 308,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:52.876Z"
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T01:56:34.139Z",
+    "last_updated": "2026-11-13T01:14:46.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
