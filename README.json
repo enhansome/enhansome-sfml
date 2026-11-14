@@ -44,8 +44,8 @@
                 "id": 4234723,
                 "language": "C++",
                 "license": "Zlib",
-                "last_commit": "2026-11-08T22:51:11Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-14T21:42:48Z",
+                "open_issues": 8,
                 "owner": "texus",
                 "repo": "TGUI",
                 "stars": 1081,
@@ -941,7 +941,7 @@
                 "open_issues": 3,
                 "owner": "Is-Daouda",
                 "repo": "is-Engine",
-                "stars": 235,
+                "stars": 236,
                 "topics": [
                   "android",
                   "android-studio",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T00:55:58.804Z",
+    "last_updated": "2026-11-14T23:59:30.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
