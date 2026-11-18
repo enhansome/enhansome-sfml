@@ -1,10 +1,10 @@
 # Awesome SFML with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 538,045 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 538,586 | 🐛 104 | 📅 2026-09-02
 
 > A curated list of awesome things related to SFML
 
-Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 538,045 | 🐛 104 | 📅 2026-09-02, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,790 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,535 | 🐛 25 | 📅 2026-09-02.
+Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 538,586 | 🐛 104 | 📅 2026-09-02, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,794 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,544 | 🐛 25 | 📅 2026-09-02.
 
 ### Contributing
 
@@ -37,7 +37,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 ## Components & Libraries
 
 * [imgui-sfml](https://github.com/eliasdaler/imgui-sfml) ⭐ 1,374 | 🐛 31 | 🌐 C++ | 📅 2026-08-21 - ImGui binding for use with SFML.
-* [TGUI](https://github.com/texus/TGUI) ⭐ 1,082 | 🐛 7 | 🌐 C++ | 📅 2026-11-15 - Easy to use cross-platform c++ GUI library for SFML.
+* [TGUI](https://github.com/texus/TGUI) ⭐ 1,082 | 🐛 7 | 🌐 C++ | 📅 2026-11-17 - Easy to use cross-platform c++ GUI library for SFML.
 * [SFGUI](https://github.com/TankOs/SFGUI) ⭐ 448 | 🐛 17 | 🌐 C++ | 📅 2026-10-08 - Simple and Fast Graphical User Interface
 * [Thor](https://github.com/Bromeon/Thor) ⚠️ Archived - Extension with various game programming features, like particles, animations, vector operations.
 * [SelbaWard](https://github.com/Hapaxia/SelbaWard) ⭐ 216 | 🐛 3 | 🌐 C++ | 📅 2026-02-14 - A collection of drawables.
@@ -81,7 +81,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 *Non-Game specific Library bundles, that provide reuseable functions*
 
-* [tmxlite](https://github.com/fallahn/tmxlite) ⭐ 468 | 🐛 12 | 🌐 C++ | 📅 2026-04-27 -  Lightweight C++14 parser for Tiled tmx files.
+* [tmxlite](https://github.com/fallahn/tmxlite) ⭐ 468 | 🐛 13 | 🌐 C++ | 📅 2026-04-27 -  Lightweight C++14 parser for Tiled tmx files.
 
 ## Tools
 
@@ -92,7 +92,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 ## Websites
 
 * [www.sfml-dev.org](https://www.sfml-dev.org/) - Official site.
-  * The [community wiki](https://github.com/SFML/SFML/wiki/) ⭐ 12,110 | 🐛 154 | 🌐 C++ | 📅 2026-11-13
+  * The [community wiki](https://github.com/SFML/SFML/wiki/) ⭐ 12,112 | 🐛 154 | 🌐 C++ | 📅 2026-11-13
   * The [official tutorials](https://www.sfml-dev.org/tutorials/)
   * The [online API documentation](https://www.sfml-dev.org/documentation/)
   * The [community forum](https://en.sfml-dev.org/forums/) ([French](https://fr.sfml-dev.org/forums/))
@@ -201,4 +201,4 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
