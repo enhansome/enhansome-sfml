@@ -699,8 +699,8 @@
                 "id": 73632818,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-04-27T08:47:52Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-18T12:25:34Z",
+                "open_issues": 12,
                 "owner": "fallahn",
                 "repo": "tmxlite",
                 "stars": 468,
@@ -746,7 +746,7 @@
                     "open_issues": 154,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12112,
+                    "stars": 12115,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T02:28:42.316Z",
+    "last_updated": "2026-11-19T01:55:07.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
