@@ -743,10 +743,10 @@
                     "language": "C++",
                     "license": "Zlib",
                     "last_commit": "2026-11-13T14:54:41Z",
-                    "open_issues": 154,
+                    "open_issues": 155,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12113,
+                    "stars": 12115,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -808,7 +808,7 @@
                 "open_issues": 2,
                 "owner": "Krozark",
                 "repo": "SFML-book",
-                "stars": 82,
+                "stars": 83,
                 "topics": [
                   "cpp",
                   "game",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T01:48:45.420Z",
+    "last_updated": "2026-11-21T01:36:31.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
