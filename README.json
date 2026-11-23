@@ -48,7 +48,7 @@
                 "open_issues": 7,
                 "owner": "texus",
                 "repo": "TGUI",
-                "stars": 1082,
+                "stars": 1084,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -699,8 +699,8 @@
                 "id": 73632818,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T12:25:34Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-22T17:32:29Z",
+                "open_issues": 12,
                 "owner": "fallahn",
                 "repo": "tmxlite",
                 "stars": 468,
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T00:30:44.413Z",
+    "last_updated": "2026-11-23T00:58:48.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
