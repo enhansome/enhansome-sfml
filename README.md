@@ -1,10 +1,10 @@
 # Awesome SFML with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,116 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,778 | 🐛 103 | 📅 2026-09-02
 
 > A curated list of awesome things related to SFML
 
-Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 541,116 | 🐛 103 | 📅 2026-09-02, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,810 | 🐛 67 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,609 | 🐛 25 | 📅 2026-09-02.
+Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 541,778 | 🐛 103 | 📅 2026-09-02, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,810 | 🐛 67 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,622 | 🐛 24 | 📅 2026-09-02.
 
 ### Contributing
 
@@ -37,7 +37,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 ## Components & Libraries
 
 * [imgui-sfml](https://github.com/eliasdaler/imgui-sfml) ⭐ 1,373 | 🐛 31 | 🌐 C++ | 📅 2026-08-21 - ImGui binding for use with SFML.
-* [TGUI](https://github.com/texus/TGUI) ⭐ 1,084 | 🐛 7 | 🌐 C++ | 📅 2026-11-17 - Easy to use cross-platform c++ GUI library for SFML.
+* [TGUI](https://github.com/texus/TGUI) ⭐ 1,084 | 🐛 8 | 🌐 C++ | 📅 2026-11-17 - Easy to use cross-platform c++ GUI library for SFML.
 * [SFGUI](https://github.com/TankOs/SFGUI) ⭐ 448 | 🐛 17 | 🌐 C++ | 📅 2026-10-08 - Simple and Fast Graphical User Interface
 * [Thor](https://github.com/Bromeon/Thor) ⚠️ Archived - Extension with various game programming features, like particles, animations, vector operations.
 * [SelbaWard](https://github.com/Hapaxia/SelbaWard) ⭐ 216 | 🐛 3 | 🌐 C++ | 📅 2026-02-14 - A collection of drawables.
@@ -61,7 +61,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 * [Pascal](https://github.com/CWBudde/PasSFML) ⭐ 58 | 🐛 5 | 🌐 Pascal | 📅 2017-03-12
 * [Ruby](https://github.com/Groogy/rbSFML) ⚠️ Archived
 * [Haskell](https://github.com/SFML-haskell/SFML) ⭐ 46 | 🐛 7 | 🌐 Haskell | 📅 2025-10-19
-* [Ada](https://github.com/mgrojo/ASFML) ⭐ 44 | 🐛 1 | 🌐 Ada | 📅 2026-08-28
+* [Ada](https://github.com/mgrojo/ASFML) ⭐ 43 | 🐛 1 | 🌐 Ada | 📅 2026-08-28
 * [Free Pascal Compiler aka FPC](https://github.com/DJMaster/csfml-fpc) ⭐ 16 | 🐛 0 | 🌐 Pascal | 📅 2020-09-12
 * [Euphoria](https://github.com/gAndy50/EuSFML2) ⭐ 5 | 🐛 0 | 🌐 Euphoria | 📅 2022-09-25
 * [C](https://www.sfml-dev.org/download/csfml)
@@ -81,7 +81,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 *Non-Game specific Library bundles, that provide reuseable functions*
 
-* [tmxlite](https://github.com/fallahn/tmxlite) ⭐ 468 | 🐛 12 | 🌐 C++ | 📅 2026-11-22 -  Lightweight C++14 parser for Tiled tmx files.
+* [tmxlite](https://github.com/fallahn/tmxlite) ⭐ 469 | 🐛 13 | 🌐 C++ | 📅 2026-11-23 -  Lightweight C++14 parser for Tiled tmx files.
 
 ## Tools
 
@@ -92,7 +92,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 ## Websites
 
 * [www.sfml-dev.org](https://www.sfml-dev.org/) - Official site.
-  * The [community wiki](https://github.com/SFML/SFML/wiki/) ⭐ 12,115 | 🐛 155 | 🌐 C++ | 📅 2026-11-13
+  * The [community wiki](https://github.com/SFML/SFML/wiki/) ⭐ 12,116 | 🐛 155 | 🌐 C++ | 📅 2026-11-13
   * The [official tutorials](https://www.sfml-dev.org/tutorials/)
   * The [online API documentation](https://www.sfml-dev.org/documentation/)
   * The [community forum](https://en.sfml-dev.org/forums/) ([French](https://fr.sfml-dev.org/forums/))
@@ -193,7 +193,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ## Other
 
-* [Stylish Visualizer](https://github.com/CosminPerRam/StylishVisualizer) ⭐ 20 | 🐛 4 | 🌐 C++ | 📅 2025-12-03 - A sorting algorithms visualizer which features SFX, step by step control and many personalization options.
+* [Stylish Visualizer](https://github.com/CosminPerRam/StylishVisualizer) ⭐ 21 | 🐛 4 | 🌐 C++ | 📅 2025-12-03 - A sorting algorithms visualizer which features SFX, step by step control and many personalization options.
 
 ## License
 
@@ -201,4 +201,4 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
