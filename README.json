@@ -699,8 +699,8 @@
                 "id": 73632818,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-24T19:31:05Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-25T09:51:16Z",
+                "open_issues": 12,
                 "owner": "fallahn",
                 "repo": "tmxlite",
                 "stars": 469,
@@ -746,7 +746,7 @@
                     "open_issues": 155,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12121,
+                    "stars": 12123,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -787,7 +787,7 @@
                 "open_issues": 18,
                 "owner": "SFML",
                 "repo": "SFML-Game-Development-Book",
-                "stars": 1039,
+                "stars": 1040,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:52.876Z"
@@ -902,7 +902,7 @@
                 "open_issues": 124,
                 "owner": "ObEngine",
                 "repo": "ObEngine",
-                "stars": 869,
+                "stars": 868,
                 "topics": [
                   "2d",
                   "2d-framework",
@@ -1193,7 +1193,7 @@
                     "open_issues": 6,
                     "owner": "ParadoxZero",
                     "repo": "sfml-snake",
-                    "stars": 114,
+                    "stars": 113,
                     "topics": [
                       "game-2d",
                       "game-development",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T03:36:04.268Z",
+    "last_updated": "2026-11-26T02:56:01.234Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
