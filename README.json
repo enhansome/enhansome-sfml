@@ -45,7 +45,7 @@
                 "language": "C++",
                 "license": "Zlib",
                 "last_commit": "2026-11-17T18:32:36Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "texus",
                 "repo": "TGUI",
                 "stars": 1085,
@@ -746,7 +746,7 @@
                     "open_issues": 155,
                     "owner": "SFML",
                     "repo": "SFML",
-                    "stars": 12123,
+                    "stars": 12125,
                     "topics": [
                       "audio",
                       "c-plus-plus",
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T02:56:01.234Z",
+    "last_updated": "2026-11-27T02:58:44.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the SFML",
